@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quickstart</title>
+    <link>https://astaalst.github.io/</link>
+    <description>Recent content on Quickstart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-BE</language>
+    <lastBuildDate>Mon, 28 Dec 2020 07:43:58 +0100</lastBuildDate><atom:link href="https://astaalst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://astaalst.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 28 Dec 2020 07:43:58 +0100</pubDate>
+      
+      <guid>https://astaalst.github.io/posts/my-first-post/</guid>
+      <description>some text here</description>
+    </item>
+    
+  </channel>
+</rss>
