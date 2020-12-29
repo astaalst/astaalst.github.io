@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astaalst.github.io/competitie/faq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://astaalst.github.io/</loc>
     <lastmod>2020-10-30T19:45:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -696,7 +702,7 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/activiteitenkalender/</loc>
+    <loc>https://astaalst.github.io/clubgegevens/activiteitenkalender/</loc>
     <lastmod>2017-07-12T14:39:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1200,7 +1206,7 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/sponsors/</loc>
+    <loc>https://astaalst.github.io/clubgegevens/sponsors/</loc>
     <lastmod>2015-09-14T20:41:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1753,7 +1759,7 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/links/</loc>
+    <loc>https://astaalst.github.io/links/</loc>
     <lastmod>2013-11-26T16:20:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2068,13 +2074,6 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/contact/</loc>
-    <lastmod>2012-10-10T11:45:34+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://astaalst.github.io/facebook/</loc>
     <lastmod>2012-10-01T13:27:10+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2082,98 +2081,88 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/groep/swim4fun/</loc>
-    <lastmod>2012-08-29T18:06:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/</loc>
-    <lastmod>2012-08-29T18:06:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/sportivos/</loc>
-    <lastmod>2012-08-25T19:11:26+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/sportzwemmers/</loc>
-    <lastmod>2012-08-25T19:11:26+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/swim4life/</loc>
-    <lastmod>2012-08-25T19:10:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/groep4/</loc>
-    <lastmod>2012-08-25T19:10:22+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/groep3/</loc>
-    <lastmod>2012-08-25T19:09:49+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/groep2/</loc>
-    <lastmod>2012-08-25T19:09:26+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/groep1/</loc>
-    <lastmod>2012-08-25T19:09:06+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/groep/academie/</loc>
-    <lastmod>2012-08-25T19:07:23+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/about/trainers/</loc>
+    <loc>https://astaalst.github.io/clubgegevens/trainers/</loc>
     <lastmod>2012-08-25T19:05:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/bestuursleden/</loc>
+    <loc>https://astaalst.github.io/clubgegevens/bestuursleden/</loc>
     <lastmod>2012-08-25T18:56:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/clubgegevens/</loc>
+    <loc>https://astaalst.github.io/clubgegevens/</loc>
     <lastmod>2012-08-22T22:13:13+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://astaalst.github.io/groep/academie/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/groep1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/groep2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/groep3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/groep4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/sportivos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/sportzwemmers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/swim4fun/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/swim4life/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://astaalst.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
