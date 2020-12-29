@@ -73,13 +73,6 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/categories/flashnieuws/</loc>
-    <lastmod>2020-03-13T07:57:39+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://astaalst.github.io/corona/</loc>
     <lastmod>2020-03-13T07:57:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -703,14 +696,14 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/</loc>
+    <loc>https://astaalst.github.io/about/activiteitenkalender/</loc>
     <lastmod>2017-07-12T14:39:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/about/activiteitenkalender/</loc>
+    <loc>https://astaalst.github.io/about/</loc>
     <lastmod>2017-07-12T14:39:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -781,6 +774,13 @@
   
   <url>
     <loc>https://astaalst.github.io/5-maart-bc-criterium-dag-2-aalst/</loc>
+    <lastmod>2017-03-06T19:04:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/categories/flashnieuws/</loc>
     <lastmod>2017-03-06T19:04:41+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1690,13 +1690,6 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/competitie/wedstrijdkalenders/</loc>
-    <lastmod>2014-01-15T13:45:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://astaalst.github.io/uitslag-wzk-wintermeeting-te-st-niklaas/</loc>
     <lastmod>2014-01-13T21:20:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1956,13 +1949,6 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/competitie/clubrecords/</loc>
-    <lastmod>2013-05-29T11:24:19+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://astaalst.github.io/clubwedstrijd-3/</loc>
     <lastmod>2013-05-25T11:27:56+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2168,13 +2154,6 @@
   <url>
     <loc>https://astaalst.github.io/about/trainers/</loc>
     <lastmod>2012-08-25T19:05:49+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/competitie/wedstrijduitslagen/</loc>
-    <lastmod>2012-08-25T19:02:13+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
