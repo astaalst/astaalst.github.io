@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://astaalst.github.io/tags/2020-2021/</loc>
+    <lastmod>2020-10-30T19:45:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://astaalst.github.io/</loc>
     <lastmod>2020-10-30T19:45:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -16,21 +23,7 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/categories/algemeen/</loc>
-    <lastmod>2020-10-30T19:45:42+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/categories/</loc>
-    <lastmod>2020-10-30T19:45:42+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/eindejaarsactie-2020/</loc>
+    <loc>https://astaalst.github.io/post/2020-2021/eindejaarsactie-2020/</loc>
     <lastmod>2020-10-30T19:45:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://astaalst.github.io/post/</loc>
+    <lastmod>2020-10-30T19:45:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/</loc>
     <lastmod>2020-10-30T19:45:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -58,8 +58,22 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/nieuwe-datums-voor-optredens-nicholas/</loc>
+    <loc>https://astaalst.github.io/post/2020-2021/nieuwe-datums-voor-optredens-nicholas/</loc>
     <lastmod>2020-09-09T06:50:24+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/2019-2020/</loc>
+    <lastmod>2020-06-29T09:51:16+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/geconverteerd/</loc>
+    <lastmod>2020-06-29T09:51:16+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -87,6 +101,13 @@
   
   <url>
     <loc>https://astaalst.github.io/vlaamse-kampioenschappen-2020/</loc>
+    <lastmod>2020-02-26T15:08:09+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/wedstrijden/</loc>
     <lastmod>2020-02-26T15:08:09+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -200,6 +221,13 @@
   <url>
     <loc>https://astaalst.github.io/activiteitenkalender-2019-2020/</loc>
     <lastmod>2019-09-05T19:32:03+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/2018-2019/</loc>
+    <lastmod>2019-07-31T10:31:32+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -396,6 +424,13 @@
   <url>
     <loc>https://astaalst.github.io/activiteitenkalender-2018-2019/</loc>
     <lastmod>2018-08-28T18:14:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/tags/2017-2018/</loc>
+    <lastmod>2018-08-03T10:03:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -780,13 +815,6 @@
   
   <url>
     <loc>https://astaalst.github.io/5-maart-bc-criterium-dag-2-aalst/</loc>
-    <lastmod>2017-03-06T19:04:41+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/categories/flashnieuws/</loc>
     <lastmod>2017-03-06T19:04:41+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2108,6 +2136,12 @@
   </url>
   
   <url>
+    <loc>https://astaalst.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://astaalst.github.io/groep/groep1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2151,12 +2185,6 @@
   
   <url>
     <loc>https://astaalst.github.io/groep/swim4life/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://astaalst.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
