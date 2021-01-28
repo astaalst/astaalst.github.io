@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://astaalst.github.io/groep/peuterzwemmen/</loc>
+    <lastmod>2021-01-28T20:36:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://astaalst.github.io/groep/academie/</loc>
     <lastmod>2021-01-27T09:55:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,8 +31,15 @@
   </url>
   
   <url>
-    <loc>https://astaalst.github.io/groep/sportzwemmers/</loc>
-    <lastmod>2021-01-10T22:03:06+01:00</lastmod>
+    <loc>https://astaalst.github.io/groep/sportzwemmers1/</loc>
+    <lastmod>2021-01-28T20:36:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://astaalst.github.io/groep/sportzwemmers2/</loc>
+    <lastmod>2021-01-28T20:36:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
