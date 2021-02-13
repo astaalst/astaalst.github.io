@@ -25,33 +25,6 @@
     </item>
     
     <item>
-      <title>Sportivo&#39;s</title>
-      <link>https://astaalst.github.io/groep/sportivos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/groep/sportivos/</guid>
-      <description>Geen zin in competitiewemmen? In deze groep kan je de opgebouwde conditie en techniek verder onderhouden.</description>
-    </item>
-    
-    <item>
-      <title>Sportzwemmers 1</title>
-      <link>https://astaalst.github.io/groep/sportzwemmers1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/groep/sportzwemmers1/</guid>
-      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 1 is een sfeervolle groep 12- tot 14-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
-    </item>
-    
-    <item>
-      <title>Sportzwemmers 2</title>
-      <link>https://astaalst.github.io/groep/sportzwemmers2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/groep/sportzwemmers2/</guid>
-      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 1 is een sfeervolle groep 15- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
-    </item>
-    
-    <item>
       <title>Pre-competitie</title>
       <link>https://astaalst.github.io/groep/precompetitie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,12 +52,30 @@
     </item>
     
     <item>
+      <title>Sportzwemmers 1</title>
+      <link>https://astaalst.github.io/groep/sportzwemmers1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/sportzwemmers1/</guid>
+      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 1 is een sfeervolle groep 12- tot 14-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
+    </item>
+    
+    <item>
+      <title>Sportzwemmers 2</title>
+      <link>https://astaalst.github.io/groep/sportzwemmers2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/sportzwemmers2/</guid>
+      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 2 is een sfeervolle groep 15- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
+    </item>
+    
+    <item>
       <title>Swim4fun</title>
       <link>https://astaalst.github.io/groep/swim4fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://astaalst.github.io/groep/swim4fun/</guid>
-      <description>Ben je al een jaartje ouder, maar kriebelt het nog? Of wil je nu eindelijk eens die crawl of rugslag onder de knie krijgen? Of wil je onder begeleiding aan je conditie werken?</description>
+      <description>Ben je al een jaartje ouder, maar kriebelt het nog? Misschien wil je nu eindelijk eens die crawl of die rugslag onder de knie krijgen? Of wil je gewoon onder begeleiding aan je conditie werken? De drijfveer van onze volwassenen is uiteenlopend, maar één ding hebben ze ongetwijfeld gemeen: een passie voor zwemmen!</description>
     </item>
     
     <item>
@@ -93,7 +84,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://astaalst.github.io/groep/swim4life/</guid>
-      <description>Ben je al wat ouder, maar ben je nog altijd een kei in zwemmen? Of wil je nu eindelijk eens deelnemen aan wedstrijden met andere volwassen?</description>
+      <description>Kan jij ook vlot overweg met die vlinderslag? Hebben de verschillende zwemstijlen geen geheimen meer voor jou? Of wil jij als ex-(competitie)zwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan is Swim4Life zeker iets voor jou!</description>
     </item>
     
   </channel>
