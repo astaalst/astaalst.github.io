@@ -8,13 +8,22 @@
     <language>nl-BE</language><atom:link href="https://astaalst.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leerlijn academie</title>
-      <link>https://astaalst.github.io/about/leerlijn/</link>
+      <link>https://astaalst.github.io/clubgegevens/leerlijn/</link>
       <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/about/leerlijn/</guid>
+      <guid>https://astaalst.github.io/clubgegevens/leerlijn/</guid>
       <description>Onze zwemacademie wordt onderverdeeld in 5 groepen. Elk groepje wordt gekenmerkt door eenzelfde beginsituatie en een gemeenschappelijke doelstelling.
 Uiteraard verloopt het leerproces niet voor ieder kind op hetzelfde tempo. Bij AST kan je op elk moment doorschuiven naar de gepaste groep als de trainersstaf overtuigd is dat je zover bent.
   Groep 1: In het eerste groepje van onze zwemacademie overwinnen 4- tot 6-jarigen hun angsten voor water. Daarnaast leren ze enkele basisvaardigheden in en onder water die noodzakelijk zijn voor het aanleren van de 4 zwemslagen.</description>
+    </item>
+    
+    <item>
+      <title>Lidgeld</title>
+      <link>https://astaalst.github.io/clubgegevens/lidgeld/</link>
+      <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/lidgeld/</guid>
+      <description>Lidgeld betalen enz.</description>
     </item>
     
     <item>
