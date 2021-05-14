@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language><atom:link href="https://astaalst.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Wie is wie?</title>
+      <link>https://astaalst.github.io/clubgegevens/bestuursleden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/bestuursleden/</guid>
+      <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan u terecht voor alle vragen en suggesties. Wil u weten wie de schouders zet onder onze club?</description>
+    </item>
+    
+    <item>
       <title>Nieuw: Peuterzwemmen</title>
       <link>https://astaalst.github.io/groep/peuterzwemmen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,15 +31,6 @@
       
       <guid>https://astaalst.github.io/groep/academie/</guid>
       <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
-    </item>
-    
-    <item>
-      <title>FAQ voor AST competitiezwemmers</title>
-      <link>https://astaalst.github.io/competitie/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/competitie/faq/</guid>
-      <description>Wij zijn trots op de clubrecords (update van 10.12.2018) behaald door onze zwemmers. De wedstrijden waaraan we deelnemen kan je via iCAL in je agenda zetten.</description>
     </item>
     
     <item>
@@ -97,6 +97,105 @@
     </item>
     
     <item>
+      <title>Clubhistoriek</title>
+      <link>https://astaalst.github.io/clubgegevens/</link>
+      <pubDate>Wed, 22 Aug 2012 22:13:13 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/</guid>
+      <description>Sinds 2002 geeft AST zwemmers van alle leeftijden de kans om zich op sportief en sociaal vlak volledig te ontwikkelen</description>
+    </item>
+    
+    <item>
+      <title>Activiteitenkalender</title>
+      <link>https://astaalst.github.io/clubgegevens/activiteitenkalender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/activiteitenkalender/</guid>
+      <description>De activiteiten leggen we per seizoen vast in een kalender.</description>
+    </item>
+    
+    <item>
+      <title>Clubrecords</title>
+      <link>https://astaalst.github.io/clubgegevens/clubrecords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/clubrecords/</guid>
+      <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit.</description>
+    </item>
+    
+    <item>
+      <title>Instap vanuit een andere zwemschool</title>
+      <link>https://astaalst.github.io/clubgegevens/overgangen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/overgangen/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn.</description>
+    </item>
+    
+    <item>
+      <title>Leerlijn academie</title>
+      <link>https://astaalst.github.io/clubgegevens/leerlijn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/leerlijn/</guid>
+      <description>Structuur en opbouw van onze zwemacademie</description>
+    </item>
+    
+    <item>
+      <title>Lidgeld</title>
+      <link>https://astaalst.github.io/clubgegevens/lidgeld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/lidgeld/</guid>
+      <description>AST is een ledenvereniging</description>
+    </item>
+    
+    <item>
+      <title>Sportief beleid</title>
+      <link>https://astaalst.github.io/clubgegevens/beleid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/clubgegevens/beleid/</guid>
+      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2020</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2020/</link>
+      <pubDate>Thu, 12 Dec 2019 19:59:38 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2020/</guid>
+      <description>De geplande masterswedstrijd gaat niet door. Op dit moment lijkt het ons onverantwoord om zwemmers van alle leeftijden en uit alle hoeken van het land samen te brengen.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2019</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2019/</link>
+      <pubDate>Wed, 06 Mar 2019 14:17:34 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2019/</guid>
+      <description>AST organiseerde op zaterdagavond 21 december 2019 een wedstrijd voor zwemmers van 20 jaar en ouder. Er zijn opnieuw goede resultaten behaald; Cedric Van Keer (BRABO) verbeterde het Belgisch Record voor 50m rugslag in de categorie Heren 35-39 jaar.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2018</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2018/</link>
+      <pubDate>Wed, 13 Jun 2018 21:24:47 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2018/</guid>
+      <description>AST organiseerde op zaterdagavond 22 december 2018 een wedstrijd voor zwemmers van 20 jaar en ouder. Eliane PELLIS (AZSC) vestigde twee nieuwe Belgisch Records, zowel op de 100m als op 200m vrije slag voor dames 85-89 jaar.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2017</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2017/</link>
+      <pubDate>Sun, 10 Dec 2017 13:26:24 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2017/</guid>
+      <description>AST organiseerde op zaterdagavond 23 december 2017 een wedstrijd voor zwemmers van 20 jaar en ouder. Stephanie Vaernewyck (MEGA) vestigde een nieuw Belgisch Record op 200m rugslag voor dames 30-34 jaar.</description>
+    </item>
+    
+    <item>
       <title>Swim4fun</title>
       <link>https://astaalst.github.io/groep/swim4fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,26 +214,6 @@
     </item>
     
     <item>
-      <title>Leerlijn academie</title>
-      <link>https://astaalst.github.io/clubgegevens/leerlijn/</link>
-      <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/leerlijn/</guid>
-      <description>Onze zwemacademie wordt onderverdeeld in 5 groepen. Elk groepje wordt gekenmerkt door eenzelfde beginsituatie en een gemeenschappelijke doelstelling.
-Uiteraard verloopt het leerproces niet voor ieder kind op hetzelfde tempo. Bij AST kan je op elk moment doorschuiven naar de gepaste groep als de trainersstaf overtuigd is dat je zover bent.
-  Groep 1: In het eerste groepje van onze zwemacademie overwinnen 4- tot 6-jarigen hun angsten voor water. Daarnaast leren ze enkele basisvaardigheden in en onder water die noodzakelijk zijn voor het aanleren van de 4 zwemslagen.</description>
-    </item>
-    
-    <item>
-      <title>Lidgeld</title>
-      <link>https://astaalst.github.io/clubgegevens/lidgeld/</link>
-      <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/lidgeld/</guid>
-      <description>Lidgeld betalen enz.</description>
-    </item>
-    
-    <item>
       <title>Eindejaarsactie 2020</title>
       <link>https://astaalst.github.io/post/2020-2021/eindejaarsactie-2020/</link>
       <pubDate>Fri, 30 Oct 2020 19:45:42 +0000</pubDate>
@@ -145,10 +224,10 @@ Uiteraard verloopt het leerproces niet voor ieder kind op hetzelfde tempo. Bij A
     
     <item>
       <title>Christmas for Masters 2021</title>
-      <link>https://astaalst.github.io/competitie/christmas-for-masters-2021/</link>
+      <link>https://astaalst.github.io/christmas-for-masters-2021/</link>
       <pubDate>Wed, 14 Oct 2020 07:13:02 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/competitie/christmas-for-masters-2021/</guid>
+      <guid>https://astaalst.github.io/christmas-for-masters-2021/</guid>
       <description>Onder voorbehoud stippen we nu al zaterdagavond 18 december 2021 aan in onze kalender voor een zwemwedstrijd in Aalst voor zwemmers van 20 jaar en ouder.</description>
     </item>
     
@@ -289,15 +368,6 @@ Jonas: A-tijd op 200m vrije slag</description>
 Deze wedstrijd was voor sommigen een groot succes, anderen voelden dat ze wat minder getraind hadden tijdens de examens.
 Ward bemachtigde zijn A-tijd op 100m vrije slag en een B-tijd op 100m rug.
 Ines, Brent en Joannes behaalden tijdens deze wedstrijd ook hun B-tijd, Ines op 100m vrije slag, Brent op 200m vrije slag en Joannes op 100m rug en 100m wissel, wat hem ook nog een Gouden Zwaan opleverde.</description>
-    </item>
-    
-    <item>
-      <title>Christmas for Masters 2020</title>
-      <link>https://astaalst.github.io/competitie/christmas-for-masters-2020/</link>
-      <pubDate>Thu, 12 Dec 2019 19:59:38 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/competitie/christmas-for-masters-2020/</guid>
-      <description>De geplande masterswedstrijd gaat niet door. Op dit moment lijkt het ons onverantwoord om zwemmers van alle leeftijden en uit alle hoeken van het land samen te brengen.</description>
     </item>
     
     <item>
@@ -590,15 +660,6 @@ Sander behaalde twee besttijden op 200m vrije slag en 50m rug en een hele mooie 
     </item>
     
     <item>
-      <title>Christmas for Masters 2019</title>
-      <link>https://astaalst.github.io/competitie/christmas-for-masters-2019/</link>
-      <pubDate>Wed, 06 Mar 2019 14:17:34 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/competitie/christmas-for-masters-2019/</guid>
-      <description>AST organiseerde op zaterdagavond 21 december 2019 een wedstrijd voor zwemmers van 20 jaar en ouder. Er zijn opnieuw goede resultaten behaald; Cedric Van Keer (BRABO) verbeterde het Belgisch Record voor 50m rugslag in de categorie Heren 35-39 jaar.</description>
-    </item>
-    
-    <item>
       <title>Vlaamse Kampioenschappen 2019: 01/03/2019 tot 03/03/2019</title>
       <link>https://astaalst.github.io/post/2018-2019/vlaamse-kampioenschappen-2019-01-03-2019-tot-03-03-2019/</link>
       <pubDate>Mon, 04 Mar 2019 18:15:12 +0000</pubDate>
@@ -812,15 +873,6 @@ Een lange lijst resultaten dus, die u op de uitslagenpagina rustig nog eens kan 
 De zwemstage heeft zijn vruchten afgeworpen, met een palmares van 60 nieuwe persoonlijke besttijden en een gemiddelde score van 106%.
 PodiumEnkele zwemmers zagen hun inspanningen beloond worden met een medaille.
 Goud voor Brent Claus op de 100m vrije slag, voor Lore Crabbe op de 400m vrije slag en voor Iona op de 100m rugslag.</description>
-    </item>
-    
-    <item>
-      <title>Christmas for Masters 2018</title>
-      <link>https://astaalst.github.io/competitie/christmas-for-masters-2018/</link>
-      <pubDate>Wed, 13 Jun 2018 21:24:47 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/competitie/christmas-for-masters-2018/</guid>
-      <description>AST organiseerde op zaterdagavond 22 december 2018 een wedstrijd voor zwemmers van 20 jaar en ouder. Eliane PELLIS (AZSC) vestigde twee nieuwe Belgisch Records, zowel op de 100m als op 200m vrije slag voor dames 85-89 jaar.</description>
     </item>
     
     <item>
@@ -1055,15 +1107,6 @@ Voor inschrijvingen en met alle vragen kan u terecht bij Dries Moreels.</descri
     </item>
     
     <item>
-      <title>Christmas for Masters 2017</title>
-      <link>https://astaalst.github.io/competitie/christmas-for-masters-2017/</link>
-      <pubDate>Sun, 10 Dec 2017 13:26:24 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/competitie/christmas-for-masters-2017/</guid>
-      <description>AST organiseerde op zaterdagavond 23 december 2017 een wedstrijd voor zwemmers van 20 jaar en ouder. Stephanie Vaernewyck (MEGA) vestigde een nieuw Belgisch Record op 200m rugslag voor dames 30-34 jaar.</description>
-    </item>
-    
-    <item>
       <title>18/19 Nov – Tweedaagse Nijlen</title>
       <link>https://astaalst.github.io/post/2017-2018/1819-nov-tweedaagse-nijlen/</link>
       <pubDate>Sun, 26 Nov 2017 18:09:14 +0000</pubDate>
@@ -1262,18 +1305,6 @@ Bij de 100m schoolslag liggen alle vrienden/concurrenten naast elkaar, en ze zij
       <guid>https://astaalst.github.io/post/2016-2017/14-16-juli-vlaams-zomercriterium-antwerpen/</guid>
       <description>15 zwemmers aan de start voor dit zomercriterium, de kroon op het werk van een jaar trainen met als laatste voorbereiding de stage met al zijn plezierige maar ook inspannende en uitputtende momenten. Zonder te spreken van het snoep-, friet- en lekkernij-vrije dieet, op een ijsje na, dat de meesten nog heel flink en moedig hebben volgehouden tot op de wedstrijddag (nu ja, op een kleine zonde na).
 Voor de B/C zwemmers is dit het hoogtepunt van het jaar, onze 3 deelnemers aan het BJK konden nog een laatste keer hun prestaties checken op een wedstrijd.</description>
-    </item>
-    
-    <item>
-      <title>Activiteitenkalender</title>
-      <link>https://astaalst.github.io/clubgegevens/activiteitenkalender/</link>
-      <pubDate>Wed, 12 Jul 2017 14:39:02 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/activiteitenkalender/</guid>
-      <description>De activiteiten leggen we per seizoen vast in een kalender. Het overzicht van 2019-2020 vind je al online.
-Je kan je daarnaast ook abonneren op de activiteitenkalender via iCAL.
-Dit formaat is compatibel met de meeste smartphones en kan ook in agenda’s van Google, Apple of Microsoft worden ingeladen.
-Naarmate de informatie beschikbaar komt worden de events aangevuld met de locaties en tijdstippen. Daarom is het belangrijk om de agenda niet éénmalig te importeren, maar als een abonnement toe te voegen.</description>
     </item>
     
     <item>
@@ -2004,15 +2035,6 @@ Opmerking : Op de AST-uitslag verschijnt de naam van Jasper niet als zwemmer van
       <guid>https://astaalst.github.io/post/2015-2016/resultaten-masters/</guid>
       <description>De resultaten van het PK Masters van zaterdag 26/09 staan hieronline.
 Proficiat !</description>
-    </item>
-    
-    <item>
-      <title>Sponsors</title>
-      <link>https://astaalst.github.io/clubgegevens/sponsors/</link>
-      <pubDate>Mon, 14 Sep 2015 20:41:39 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/sponsors/</guid>
-      <description>voorbeeldaffiche   AST bedankt alle sponsors. Zonder hun steun zou de club niet kunnen functioneren.</description>
     </item>
     
     <item>
@@ -2795,15 +2817,6 @@ Prettige feesten aan iedereen !</description>
     </item>
     
     <item>
-      <title>Links</title>
-      <link>https://astaalst.github.io/links/</link>
-      <pubDate>Tue, 26 Nov 2013 16:20:29 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/links/</guid>
-      <description> AST is lid van  VZF = Vlaamse Zwemfederatie REDFED   Competitiezwemmen  Zwemfederatie Oost-Vlaanderen Belgische Zwemfederatie Swimbase Swimrankings Toptime   Zwemmen is gezond  Dopinglijn Panathlonverklaring“Ethiek in de Jeugdsport”    </description>
-    </item>
-    
-    <item>
       <title>Zwemmarathon voor het goede doel</title>
       <link>https://astaalst.github.io/post/2013-2014/zwemmarathon-voor-het-goede-doel/</link>
       <pubDate>Sat, 16 Nov 2013 15:46:21 +0000</pubDate>
@@ -3236,37 +3249,6 @@ Veel Succes!!!</description>
       <description>Wij bedanken alle leden die deelnamen aan een alweer fantastische clubwedstrijd. Ook een dikke merci aan de trainers en tijdopnemers die geholpen hebben.
 Het was alweer een geslaagde activiteit.
 Uitslagen en foto’s volgen snel</description>
-    </item>
-    
-    <item>
-      <title>Trainers</title>
-      <link>https://astaalst.github.io/clubgegevens/trainers/</link>
-      <pubDate>Sat, 25 Aug 2012 19:05:49 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/trainers/</guid>
-      <description>Academie zwembad Sint-Jozefcollege, Stoofstraat Aalst
- Bosman Elien Bosman Liese Dalle Andrea De Brouwer Jeroen De Bruyn Linde De Roose Sofie Gombert Chloé Haegeman Jonas Haegeman Karen Rots Jasper Rots Simon Swaelens Colin   Groot Bad Stedelijk zwembad Aalst, zwembadlaan
- Bahnmüller Michael, hoofdtrainer Bahnmüller Jana Bahnmüller Lisa Pauwels Sabine, Swim4Life De Wit Sam, Swim4Fun De Rybel Ruud, droogtraining Van de Ponseele Elly, droogtraining  Voor vragen kan u steeds ons steeds bereiken via info@astaalst.</description>
-    </item>
-    
-    <item>
-      <title>Bestuursleden</title>
-      <link>https://astaalst.github.io/clubgegevens/bestuursleden/</link>
-      <pubDate>Sat, 25 Aug 2012 18:56:59 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/bestuursleden/</guid>
-      <description>**Voorzitter: **Karoline Blondeel karoline@astaalst.be Secretaris: Frank Van de Ponseele frank@astaalst.be Penningmeester : Erik Bark erik.bark@telenet.be Website, wedstrijden: Dries Moreels dries@astaalst.be Sponsoring: Jurgen Claus   Hoofdtrainer, jeugdsportverantwoordelijke, Sportief verantwoordelijke academie: Michael Bahnmüller 0475/96.11.01 michael@astaalst.be Sportief verantwoordelijke volwassenen: Sabine Pauwels sabine@astaalst.be Administratief verantwoordelijke academie: Sandra Van Damme Sportsecretaris competitie: Els Van der Meersch sport@astaalst.be Ere-voorzitter: Dirk Bauwens Vertrouwenspersoon: Martien Smets martiensmets@live.be
-De zwemfederatie pleit ervoor om binnen de club een vertrouwenspersoon (API = Aanspreekpunt Integriteit) aan te stellen, waarbij atleten, officials, trainers, lesgevers, bestuurders… terecht kunnen met al hun vragen en opmerkingen.</description>
-    </item>
-    
-    <item>
-      <title>Clubgegevens</title>
-      <link>https://astaalst.github.io/clubgegevens/</link>
-      <pubDate>Wed, 22 Aug 2012 22:13:13 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/clubgegevens/</guid>
-      <description>Op 27 mei 2002 ontstond AST als een nieuwe zwemclub te Aalst met ambitie en professionaliteit, met als uitvalbasis het Aalsterse 50 meter bad. AST beschikt over een zeer goed uitgebouwde structuur en biedt een ruim aanbod aan alle leeftijdscategorieën, van academie over competitiezwemmen tot conditietraining voor volwassenen.
-Onze doelstelling bestaat erin zwemmers van alle leeftijden de kans te geven zich op sportief en sociaal vlak volledig te ontwikkelen. We begeleiden ze graag doorheen al deze etappes om uiteindelijk het beoogde resultaat te bereiken: een leven lang zwemmen op niveau.</description>
     </item>
     
   </channel>

@@ -1,90 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Over ons on AST</title>
+    <title>Aalsters Swimming Team on AST</title>
     <link>https://astaalst.github.io/about/</link>
-    <description>Recent content in Over ons on AST</description>
+    <description>Recent content in Aalsters Swimming Team on AST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language><atom:link href="https://astaalst.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Leerlijn academie</title>
-      <link>https://astaalst.github.io/clubgegevens/leerlijn/</link>
-      <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
+      <title>Wie is wie?</title>
+      <link>https://astaalst.github.io/clubgegevens/bestuursleden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/leerlijn/</guid>
-      <description>Onze zwemacademie wordt onderverdeeld in 5 groepen. Elk groepje wordt gekenmerkt door eenzelfde beginsituatie en een gemeenschappelijke doelstelling.
-Uiteraard verloopt het leerproces niet voor ieder kind op hetzelfde tempo. Bij AST kan je op elk moment doorschuiven naar de gepaste groep als de trainersstaf overtuigd is dat je zover bent.
-  Groep 1: In het eerste groepje van onze zwemacademie overwinnen 4- tot 6-jarigen hun angsten voor water. Daarnaast leren ze enkele basisvaardigheden in en onder water die noodzakelijk zijn voor het aanleren van de 4 zwemslagen.</description>
+      <guid>https://astaalst.github.io/clubgegevens/bestuursleden/</guid>
+      <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan u terecht voor alle vragen en suggesties. Wil u weten wie de schouders zet onder onze club?</description>
     </item>
     
     <item>
-      <title>Lidgeld</title>
-      <link>https://astaalst.github.io/clubgegevens/lidgeld/</link>
-      <pubDate>Tue, 26 Jan 2021 18:56:59 +0000</pubDate>
+      <title>Clubhistoriek</title>
+      <link>https://astaalst.github.io/clubgegevens/</link>
+      <pubDate>Wed, 22 Aug 2012 22:13:13 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/lidgeld/</guid>
-      <description>Lidgeld betalen enz.</description>
+      <guid>https://astaalst.github.io/clubgegevens/</guid>
+      <description>Sinds 2002 geeft AST zwemmers van alle leeftijden de kans om zich op sportief en sociaal vlak volledig te ontwikkelen</description>
     </item>
     
     <item>
       <title>Activiteitenkalender</title>
       <link>https://astaalst.github.io/clubgegevens/activiteitenkalender/</link>
-      <pubDate>Wed, 12 Jul 2017 14:39:02 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://astaalst.github.io/clubgegevens/activiteitenkalender/</guid>
-      <description>De activiteiten leggen we per seizoen vast in een kalender. Het overzicht van 2019-2020 vind je al online.
-Je kan je daarnaast ook abonneren op de activiteitenkalender via iCAL.
-Dit formaat is compatibel met de meeste smartphones en kan ook in agenda’s van Google, Apple of Microsoft worden ingeladen.
-Naarmate de informatie beschikbaar komt worden de events aangevuld met de locaties en tijdstippen. Daarom is het belangrijk om de agenda niet éénmalig te importeren, maar als een abonnement toe te voegen.</description>
+      <description>De activiteiten leggen we per seizoen vast in een kalender.</description>
     </item>
     
     <item>
-      <title>Sponsors</title>
-      <link>https://astaalst.github.io/clubgegevens/sponsors/</link>
-      <pubDate>Mon, 14 Sep 2015 20:41:39 +0000</pubDate>
+      <title>Clubrecords</title>
+      <link>https://astaalst.github.io/clubgegevens/clubrecords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/sponsors/</guid>
-      <description>voorbeeldaffiche   AST bedankt alle sponsors. Zonder hun steun zou de club niet kunnen functioneren.</description>
+      <guid>https://astaalst.github.io/clubgegevens/clubrecords/</guid>
+      <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit.</description>
     </item>
     
     <item>
-      <title>Links</title>
-      <link>https://astaalst.github.io/links/</link>
-      <pubDate>Tue, 26 Nov 2013 16:20:29 +0000</pubDate>
+      <title>Instap vanuit een andere zwemschool</title>
+      <link>https://astaalst.github.io/clubgegevens/overgangen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/links/</guid>
-      <description> AST is lid van  VZF = Vlaamse Zwemfederatie REDFED   Competitiezwemmen  Zwemfederatie Oost-Vlaanderen Belgische Zwemfederatie Swimbase Swimrankings Toptime   Zwemmen is gezond  Dopinglijn Panathlonverklaring“Ethiek in de Jeugdsport”    </description>
+      <guid>https://astaalst.github.io/clubgegevens/overgangen/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn.</description>
     </item>
     
     <item>
-      <title>Trainers</title>
-      <link>https://astaalst.github.io/clubgegevens/trainers/</link>
-      <pubDate>Sat, 25 Aug 2012 19:05:49 +0000</pubDate>
+      <title>Leerlijn academie</title>
+      <link>https://astaalst.github.io/clubgegevens/leerlijn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/trainers/</guid>
-      <description>Academie zwembad Sint-Jozefcollege, Stoofstraat Aalst
- Bosman Elien Bosman Liese Dalle Andrea De Brouwer Jeroen De Bruyn Linde De Roose Sofie Gombert Chloé Haegeman Jonas Haegeman Karen Rots Jasper Rots Simon Swaelens Colin   Groot Bad Stedelijk zwembad Aalst, zwembadlaan
- Bahnmüller Michael, hoofdtrainer Bahnmüller Jana Bahnmüller Lisa Pauwels Sabine, Swim4Life De Wit Sam, Swim4Fun De Rybel Ruud, droogtraining Van de Ponseele Elly, droogtraining  Voor vragen kan u steeds ons steeds bereiken via info@astaalst.</description>
+      <guid>https://astaalst.github.io/clubgegevens/leerlijn/</guid>
+      <description>Structuur en opbouw van onze zwemacademie</description>
     </item>
     
     <item>
-      <title>Bestuursleden</title>
-      <link>https://astaalst.github.io/clubgegevens/bestuursleden/</link>
-      <pubDate>Sat, 25 Aug 2012 18:56:59 +0000</pubDate>
+      <title>Lidgeld</title>
+      <link>https://astaalst.github.io/clubgegevens/lidgeld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/bestuursleden/</guid>
-      <description>**Voorzitter: **Karoline Blondeel karoline@astaalst.be Secretaris: Frank Van de Ponseele frank@astaalst.be Penningmeester : Erik Bark erik.bark@telenet.be Website, wedstrijden: Dries Moreels dries@astaalst.be Sponsoring: Jurgen Claus   Hoofdtrainer, jeugdsportverantwoordelijke, Sportief verantwoordelijke academie: Michael Bahnmüller 0475/96.11.01 michael@astaalst.be Sportief verantwoordelijke volwassenen: Sabine Pauwels sabine@astaalst.be Administratief verantwoordelijke academie: Sandra Van Damme Sportsecretaris competitie: Els Van der Meersch sport@astaalst.be Ere-voorzitter: Dirk Bauwens Vertrouwenspersoon: Martien Smets martiensmets@live.be
-De zwemfederatie pleit ervoor om binnen de club een vertrouwenspersoon (API = Aanspreekpunt Integriteit) aan te stellen, waarbij atleten, officials, trainers, lesgevers, bestuurders… terecht kunnen met al hun vragen en opmerkingen.</description>
+      <guid>https://astaalst.github.io/clubgegevens/lidgeld/</guid>
+      <description>AST is een ledenvereniging</description>
     </item>
     
     <item>
-      <title>Clubgegevens</title>
-      <link>https://astaalst.github.io/clubgegevens/</link>
-      <pubDate>Wed, 22 Aug 2012 22:13:13 +0000</pubDate>
+      <title>Sportief beleid</title>
+      <link>https://astaalst.github.io/clubgegevens/beleid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/clubgegevens/</guid>
-      <description>Op 27 mei 2002 ontstond AST als een nieuwe zwemclub te Aalst met ambitie en professionaliteit, met als uitvalbasis het Aalsterse 50 meter bad. AST beschikt over een zeer goed uitgebouwde structuur en biedt een ruim aanbod aan alle leeftijdscategorieën, van academie over competitiezwemmen tot conditietraining voor volwassenen.
-Onze doelstelling bestaat erin zwemmers van alle leeftijden de kans te geven zich op sportief en sociaal vlak volledig te ontwikkelen. We begeleiden ze graag doorheen al deze etappes om uiteindelijk het beoogde resultaat te bereiken: een leven lang zwemmen op niveau.</description>
+      <guid>https://astaalst.github.io/clubgegevens/beleid/</guid>
+      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     
   </channel>
