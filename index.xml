@@ -106,15 +106,6 @@
     </item>
     
     <item>
-      <title>Activiteitenkalender</title>
-      <link>https://astaalst.github.io/about/activiteitenkalender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/about/activiteitenkalender/</guid>
-      <description>De activiteiten leggen we per seizoen vast in een kalender.</description>
-    </item>
-    
-    <item>
       <title>Clubrecords</title>
       <link>https://astaalst.github.io/about/clubrecords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -130,6 +121,15 @@
       
       <guid>https://astaalst.github.io/about/overgangen/</guid>
       <description>AST verwelkomt ook zwemmers die elders begonnen zijn.</description>
+    </item>
+    
+    <item>
+      <title>Jaarkalender</title>
+      <link>https://astaalst.github.io/about/jaarkalender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/about/jaarkalender/</guid>
+      <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender.</description>
     </item>
     
     <item>
@@ -2870,10 +2870,10 @@ Wij bedanken iedereen die geholpen heeft om er zo een fantastische dag van te ma
     
     <item>
       <title>AST-STEUNACTIE</title>
-      <link>https://astaalst.github.io/post/2013-2014/929/</link>
+      <link>https://astaalst.github.io/post/2013-2014/2013-10-28-929/</link>
       <pubDate>Mon, 28 Oct 2013 09:15:41 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/post/2013-2014/929/</guid>
+      <guid>https://astaalst.github.io/post/2013-2014/2013-10-28-929/</guid>
       <description>Beste AST- zwemmer, ouders en familieleden,
 Vandaag starten wij onze achtste AST – STEUNACTIE ten voordele van de club. Ieder lid van onze vereniging wordt gevraagd om zijn/haar steentje bij te dragen tot het succes van deze actie!
 Waarom deze steunactie ?
@@ -3109,10 +3109,10 @@ Wees er snel bij, plaatsen zijn beperkt.</description>
     
     <item>
       <title>Overgang groep 2 naar groep 3</title>
-      <link>https://astaalst.github.io/post/2012-2013/658/</link>
+      <link>https://astaalst.github.io/post/2012-2013/2013-06-23-658/</link>
       <pubDate>Sun, 23 Jun 2013 12:11:25 +0000</pubDate>
       
-      <guid>https://astaalst.github.io/post/2012-2013/658/</guid>
+      <guid>https://astaalst.github.io/post/2012-2013/2013-06-23-658/</guid>
       <description>Een dikke proficiat aan Karlien, Céline, Warris, Elien, Siska en Branko die de overgang gemaakt hebben van groep 2 naar groep 3. Ik zal jullie missen in groep 2.
 Veel succes.</description>
     </item>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>competitie on AST</title>
+    <title>Competitiezwemmen on AST</title>
     <link>https://astaalst.github.io/tags/competitie/</link>
-    <description>Recent content in competitie on AST</description>
+    <description>Recent content in Competitiezwemmen on AST</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-BE</language>
-    <lastBuildDate>Fri, 30 Oct 2020 19:45:42 +0000</lastBuildDate><atom:link href="https://astaalst.github.io/tags/competitie/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-BE</language><atom:link href="https://astaalst.github.io/tags/competitie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pre-competitie</title>
       <link>https://astaalst.github.io/groep/precompetitie/</link>
@@ -35,12 +34,75 @@
     </item>
     
     <item>
+      <title>Clubrecords</title>
+      <link>https://astaalst.github.io/about/clubrecords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/about/clubrecords/</guid>
+      <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit.</description>
+    </item>
+    
+    <item>
+      <title>Sportief beleid</title>
+      <link>https://astaalst.github.io/about/beleid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/about/beleid/</guid>
+      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2020</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2020/</link>
+      <pubDate>Thu, 12 Dec 2019 19:59:38 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2020/</guid>
+      <description>De geplande masterswedstrijd gaat niet door. Op dit moment lijkt het ons onverantwoord om zwemmers van alle leeftijden en uit alle hoeken van het land samen te brengen.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2019</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2019/</link>
+      <pubDate>Wed, 06 Mar 2019 14:17:34 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2019/</guid>
+      <description>AST organiseerde op zaterdagavond 21 december 2019 een wedstrijd voor zwemmers van 20 jaar en ouder. Er zijn opnieuw goede resultaten behaald; Cedric Van Keer (BRABO) verbeterde het Belgisch Record voor 50m rugslag in de categorie Heren 35-39 jaar.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2018</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2018/</link>
+      <pubDate>Wed, 13 Jun 2018 21:24:47 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2018/</guid>
+      <description>AST organiseerde op zaterdagavond 22 december 2018 een wedstrijd voor zwemmers van 20 jaar en ouder. Eliane PELLIS (AZSC) vestigde twee nieuwe Belgisch Records, zowel op de 100m als op 200m vrije slag voor dames 85-89 jaar.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2017</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2017/</link>
+      <pubDate>Sun, 10 Dec 2017 13:26:24 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2017/</guid>
+      <description>AST organiseerde op zaterdagavond 23 december 2017 een wedstrijd voor zwemmers van 20 jaar en ouder. Stephanie Vaernewyck (MEGA) vestigde een nieuw Belgisch Record op 200m rugslag voor dames 30-34 jaar.</description>
+    </item>
+    
+    <item>
       <title>Eindejaarsactie 2020</title>
       <link>https://astaalst.github.io/post/2020-2021/eindejaarsactie-2020/</link>
       <pubDate>Fri, 30 Oct 2020 19:45:42 +0000</pubDate>
       
       <guid>https://astaalst.github.io/post/2020-2021/eindejaarsactie-2020/</guid>
       <description>Het is een moeilijk jaar voor ons allemaal, maar laat ons toch niet vergeten dat we met onze zwemclub alles in het werk gesteld hebben om onze zwemlessen veilig te laten doorgaan.</description>
+    </item>
+    
+    <item>
+      <title>Christmas for Masters 2021</title>
+      <link>https://astaalst.github.io/christmas-for-masters-2021/</link>
+      <pubDate>Wed, 14 Oct 2020 07:13:02 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/christmas-for-masters-2021/</guid>
+      <description>Onder voorbehoud stippen we nu al zaterdagavond 18 december 2021 aan in onze kalender voor een zwemwedstrijd in Aalst voor zwemmers van 20 jaar en ouder.</description>
     </item>
     
     <item>

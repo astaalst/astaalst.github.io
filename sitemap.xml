@@ -57,18 +57,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/about/activiteitenkalender/</loc>
-    <lastmod>2021-05-14T15:50:44+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.github.io/about/clubrecords/</loc>
-    <lastmod>2021-05-14T15:50:44+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/about/overgangen/</loc>
     <lastmod>2021-05-14T15:50:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.github.io/about/jaarkalender/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -83,27 +83,27 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/about/beleid/</loc>
-    <lastmod>2021-05-14T15:50:44+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/christmas-for-masters-2020/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/christmas-for-masters-2019/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/christmas-for-masters-2018/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/christmas-for-masters-2017/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -122,33 +122,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/tags/blijven-zwemmen/</loc>
-    <lastmod>2021-05-15T11:02:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.github.io/tags/competitie/</loc>
-    <lastmod>2021-05-15T11:02:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.github.io/post/2020-2021/eindejaarsactie-2020/</loc>
     <lastmod>2021-05-14T09:34:06+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/tags/leren-zwemmen/</loc>
-    <lastmod>2021-05-15T11:02:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.github.io/tags/</loc>
-    <lastmod>2021-05-15T11:02:50+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/christmas-for-masters-2021/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -163,7 +148,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/tags/na-migratie-nog-na-te-kijken/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1377,8 +1362,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/post/2013-2014/929/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <loc>https://astaalst.github.io/post/2013-2014/2013-10-28-929/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1482,8 +1467,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/post/2012-2013/658/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <loc>https://astaalst.github.io/post/2012-2013/2013-06-23-658/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1562,8 +1547,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/tag/blijven-zwemmen/</loc>
-    <lastmod>2021-05-14T09:34:06+02:00</lastmod>
+    <loc>https://astaalst.github.io/tags/blijven-zwemmen/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1572,23 +1557,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/tag/competitie/</loc>
-    <lastmod>2021-05-13T12:33:08+02:00</lastmod>
+    <loc>https://astaalst.github.io/tags/competitie/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.github.io/tag/leren-zwemmen/</loc>
-    <lastmod>2021-05-14T15:50:44+02:00</lastmod>
+    <loc>https://astaalst.github.io/tags/leren-zwemmen/</loc>
+    <lastmod>2021-05-16T12:58:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.github.io/post/</loc>
     <lastmod>2021-05-13T12:33:08+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.github.io/tag/</loc>
-    <lastmod>2021-05-14T15:50:44+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
