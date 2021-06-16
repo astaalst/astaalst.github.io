@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language><atom:link href="https://astaalst.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Leerlijn academie</title>
+      <link>https://astaalst.github.io/groep/academie/leerlijn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/leerlijn/</guid>
+      <description>Onze zwemacademie is bewust kleinschalig en wordt onderverdeeld in 5 geschakelde groepen. Alles over de structuur en opbouw van onze zwemacademie.</description>
+    </item>
+    
+    <item>
       <title>Wie is wie?</title>
       <link>https://astaalst.github.io/about/bestuursleden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +39,51 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://astaalst.github.io/groep/academie/</guid>
+      <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
+    </item>
+    
+    <item>
+      <title>Academie 1</title>
+      <link>https://astaalst.github.io/groep/academie/academie1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/academie1/</guid>
+      <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
+    </item>
+    
+    <item>
+      <title>Academie 2</title>
+      <link>https://astaalst.github.io/groep/academie/academie2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/academie2/</guid>
+      <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
+    </item>
+    
+    <item>
+      <title>Academie 3</title>
+      <link>https://astaalst.github.io/groep/academie/academie3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/academie3/</guid>
+      <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
+    </item>
+    
+    <item>
+      <title>Academie 4</title>
+      <link>https://astaalst.github.io/groep/academie/academie4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/academie4/</guid>
+      <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
+    </item>
+    
+    <item>
+      <title>Academie 5</title>
+      <link>https://astaalst.github.io/groep/academie/academie5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/academie5/</guid>
       <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
     </item>
     
@@ -115,15 +169,6 @@
     </item>
     
     <item>
-      <title>Instap vanuit een andere zwemschool</title>
-      <link>https://astaalst.github.io/about/overgangen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/about/overgangen/</guid>
-      <description>AST verwelkomt ook zwemmers die elders begonnen zijn.</description>
-    </item>
-    
-    <item>
       <title>Jaarkalender</title>
       <link>https://astaalst.github.io/about/jaarkalender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,21 +178,30 @@
     </item>
     
     <item>
-      <title>Leerlijn academie</title>
-      <link>https://astaalst.github.io/about/leerlijn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.github.io/about/leerlijn/</guid>
-      <description>Structuur en opbouw van onze zwemacademie</description>
-    </item>
-    
-    <item>
       <title>Lidgeld</title>
       <link>https://astaalst.github.io/about/lidgeld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://astaalst.github.io/about/lidgeld/</guid>
       <description>AST is een ledenvereniging</description>
+    </item>
+    
+    <item>
+      <title>Overstap vanuit Aqua United</title>
+      <link>https://astaalst.github.io/groep/academie/overgang-aqua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/overgang-aqua/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
+    </item>
+    
+    <item>
+      <title>Overstap vanuit KZNA</title>
+      <link>https://astaalst.github.io/groep/academie/overgang-kzna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astaalst.github.io/groep/academie/overgang-kzna/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
     </item>
     
     <item>

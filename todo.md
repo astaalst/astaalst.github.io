@@ -5,9 +5,10 @@
 + masters pagina aanmaken
 + beeld blijven-zwemmen
 + over-ons u > jij
++ academie 5 pagina's
 
 - home 3 beelden
-- academie 5 pagina's
+
 - juiste trainers bij de groep
 - CTA assist formulier
 - domainname
