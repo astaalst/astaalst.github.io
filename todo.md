@@ -10,9 +10,9 @@
 + berichtje mondmaskers
 + aanpassingen about
 + CTA inschrijvingsformulier
++ multiple trainer cards per groep
 
 - home 3 beelden
-- multiple trainer cards per groep
 - domainname
 
 
