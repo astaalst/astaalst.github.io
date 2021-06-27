@@ -6,11 +6,13 @@
 + beeld blijven-zwemmen
 + over-ons u > jij
 + academie 5 pagina's
++ juiste trainers bij de groep
++ berichtje mondmaskers
++ aanpassingen about
++ CTA inschrijvingsformulier
 
 - home 3 beelden
-
-- juiste trainers bij de groep
-- CTA assist formulier
+- multiple trainer cards per groep
 - domainname
 
 
@@ -21,7 +23,7 @@
 - foto mondmaskers
 - uitslagen
 - records
-- oude content
+- oude posts
 
 
 
