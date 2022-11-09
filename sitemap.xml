@@ -168,21 +168,31 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2022-2023/</loc>
-    <lastmod>2022-10-27T21:06:58+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2022-2023/gent-22-23-oktober-2022.meet/</loc>
-    <lastmod>2022-10-27T20:36:14+02:00</lastmod>
+    <lastmod>2022-11-08T20:41:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2022-10-27T21:06:58+02:00</lastmod>
+    <lastmod>2022-11-08T20:41:39+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2022-2023/eetfestijn/</loc>
+    <lastmod>2022-11-08T20:41:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/wedstrijdverslag/</loc>
+    <lastmod>2022-10-27T20:36:14+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2022-2023/zwevegem-30-oktober-2022.meet/</loc>
+    <lastmod>2022-10-21T18:24:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2022-2023/gent-22-23-oktober-2022.meet/</loc>
     <lastmod>2022-10-27T20:36:14+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
