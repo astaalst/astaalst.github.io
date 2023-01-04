@@ -6,7 +6,7 @@
     <description>Recent content in Tags on AST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sun, 01 Jan 2023 16:13:26 +0000</lastBuildDate><atom:link href="https://astaalst.be/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 09:14:12 +0100</lastBuildDate><atom:link href="https://astaalst.be/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022-2023</title>
       <link>https://astaalst.be/tags/2022-2023/</link>
@@ -26,6 +26,24 @@
     </item>
     
     <item>
+      <title>Blijven zwemmen</title>
+      <link>https://astaalst.be/tags/blijven-zwemmen/</link>
+      <pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
+      
+      <guid>https://astaalst.be/tags/blijven-zwemmen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competitiezwemmen</title>
+      <link>https://astaalst.be/tags/competitie/</link>
+      <pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
+      
+      <guid>https://astaalst.be/tags/competitie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021-2022</title>
       <link>https://astaalst.be/tags/2021-2022/</link>
       <pubDate>Sat, 04 Jun 2022 10:13:26 +0000</pubDate>
@@ -40,6 +58,15 @@
       <pubDate>Thu, 29 Jul 2021 09:45:42 +0000</pubDate>
       
       <guid>https://astaalst.be/tags/2020-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leren zwemmen</title>
+      <link>https://astaalst.be/tags/leren-zwemmen/</link>
+      <pubDate>Sun, 16 May 2021 12:58:03 +0200</pubDate>
+      
+      <guid>https://astaalst.be/tags/leren-zwemmen/</guid>
       <description></description>
     </item>
     
@@ -67,33 +94,6 @@
       <pubDate>Fri, 03 Aug 2018 10:03:11 +0000</pubDate>
       
       <guid>https://astaalst.be/tags/2017-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blijven zwemmen</title>
-      <link>https://astaalst.be/tags/blijven-zwemmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/tags/blijven-zwemmen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Competitiezwemmen</title>
-      <link>https://astaalst.be/tags/competitie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/tags/competitie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leren zwemmen</title>
-      <link>https://astaalst.be/tags/leren-zwemmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/tags/leren-zwemmen/</guid>
       <description></description>
     </item>
     

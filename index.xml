@@ -5,29 +5,30 @@
     <link>https://astaalst.be/</link>
     <description>Recent content in Aalsters Swimming Team on AST</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-BE</language><atom:link href="https://astaalst.be/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Leerlijn academie</title>
-      <link>https://astaalst.be/groep/academie/leerlijn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/groep/academie/leerlijn/</guid>
-      <description>Onze zwemacademie is bewust kleinschalig en wordt onderverdeeld in 5 geschakelde groepen. Alles over de structuur en opbouw van onze zwemacademie.</description>
-    </item>
-    
+    <language>nl-BE</language>
+    <lastBuildDate>Tue, 27 Dec 2022 22:26:40 +0100</lastBuildDate><atom:link href="https://astaalst.be/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wie is wie?</title>
       <link>https://astaalst.be/about/bestuursleden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/about/bestuursleden/</guid>
       <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan je terecht voor alle vragen en suggesties. Wil je weten wie de schouders zet onder onze club?</description>
     </item>
     
     <item>
+      <title>Leerlijn academie</title>
+      <link>https://astaalst.be/groep/academie/leerlijn/</link>
+      <pubDate>Sun, 11 Jul 2021 20:59:29 +0200</pubDate>
+      
+      <guid>https://astaalst.be/groep/academie/leerlijn/</guid>
+      <description>Onze zwemacademie is bewust kleinschalig en wordt onderverdeeld in 5 geschakelde groepen. Alles over de structuur en opbouw van onze zwemacademie.</description>
+    </item>
+    
+    <item>
       <title>Peuterzwemmen</title>
       <link>https://astaalst.be/groep/peuterzwemmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jun 2022 18:48:31 +0200</pubDate>
       
       <guid>https://astaalst.be/groep/peuterzwemmen/</guid>
       <description>Is jouw kind gek op water, maar nog te jong om echt te leren zwemmen? Of lijkt wat ‘qualitytime’ in het water met je kind wel fijn? Peuterzwemmen leert kinderen van 3 jaar op een spelende manier te bewegen in het water onder begeleiding van één ouder.</description>
@@ -36,7 +37,7 @@
     <item>
       <title>Academie</title>
       <link>https://astaalst.be/groep/academie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/</guid>
       <description>Telt jouw kind af naar zijn/haar eerste zwemles? Voel jij je gerustgesteld wanneer je kind zelfredzaam is in het water? Of wil je dat jouw kind een goede zwemtechniek aangeleerd krijgt? In onze zwemacademie worden kinderen tussen 4 en 12 jaar meester in de 4 zwemstijlen.</description>
@@ -45,7 +46,7 @@
     <item>
       <title>Academie 1</title>
       <link>https://astaalst.be/groep/academie/academie1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie1/</guid>
       <description>De prille start</description>
@@ -54,7 +55,7 @@
     <item>
       <title>Academie 2</title>
       <link>https://astaalst.be/groep/academie/academie2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie2/</guid>
       <description>Wij starten met rugslag</description>
@@ -63,7 +64,7 @@
     <item>
       <title>Academie 3</title>
       <link>https://astaalst.be/groep/academie/academie3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie3/</guid>
       <description>We voegen crawl toe</description>
@@ -72,7 +73,7 @@
     <item>
       <title>Academie 4</title>
       <link>https://astaalst.be/groep/academie/academie4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie4/</guid>
       <description>We voegen schoolslag toe</description>
@@ -81,7 +82,7 @@
     <item>
       <title>Academie 5</title>
       <link>https://astaalst.be/groep/academie/academie5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie5/</guid>
       <description>Proeven van vlinderslag en wisselslag</description>
@@ -90,7 +91,7 @@
     <item>
       <title>Pre-competitie</title>
       <link>https://astaalst.be/groep/precompetitie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/precompetitie/</guid>
       <description>Vraag jij je stiekem af wat jij waard bent in het water of kriebelt het om te racen tegen leeftijdsgenoten? De précompetitie zijn 9- en 10-jarige zwemmers die de eerste stappen zetten voor een veelbelovende zwemcarrière.</description>
@@ -99,7 +100,7 @@
     <item>
       <title>Competitie 1</title>
       <link>https://astaalst.be/groep/competitie1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/competitie1/</guid>
       <description>Smaakt het competitiezwemmen naar meer en wil je graag je eigen grenzen verleggen? De zwemmers in competitie 1 zijn tussen de 11 en de 14 jaar en leren hun ambitie in het zwemmen ontdekken.</description>
@@ -108,7 +109,7 @@
     <item>
       <title>Competitie 2</title>
       <link>https://astaalst.be/groep/competitie2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/competitie2/</guid>
       <description>Kent jouw ambitie geen grenzen en sta je te popelen om je zwemcarrière naar een hoger niveau te tillen? De zwemmers in competitie 2 zijn minimum 14 jaar en kiezen naast hun studies voor een (bijna) voltijds sportprogramma.</description>
@@ -117,7 +118,7 @@
     <item>
       <title>Sportivo&#39;s 1</title>
       <link>https://astaalst.be/groep/sportivo1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/sportivo1/</guid>
       <description>Heb jij nog niet zo veel zwemervaring, maar zou jij binnenkort graag een volledige lengte kunnen overzwemmen? Sportivo’s 1 is een groep 7- tot 12-jarigen die de basisvaardigheden van watergewenning en rugcrawl aanleren.</description>
@@ -126,7 +127,7 @@
     <item>
       <title>Sportivo&#39;s 2</title>
       <link>https://astaalst.be/groep/sportivo2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/sportivo2/</guid>
       <description>Heb jij je waterangst volledig overwonnen en kan jij vlot een lengte rugcrawl zwemmen? Sportivo’s 2 is een groep 7- tot 12-jarigen die staat te popelen om de technieken van borstcrawl en schoolslag aangeleerd te krijgen.</description>
@@ -135,7 +136,7 @@
     <item>
       <title>Sportzwemmers 1</title>
       <link>https://astaalst.be/groep/sportzwemmer1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/sportzwemmer1/</guid>
       <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 1 is een sfeervolle groep 10- tot 13-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
@@ -144,10 +145,55 @@
     <item>
       <title>Sportzwemmers 2</title>
       <link>https://astaalst.be/groep/sportzwemmer2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/sportzwemmer2/</guid>
       <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 2 is een sfeervolle groep 14- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
+    </item>
+    
+    <item>
+      <title>Jaarkalender</title>
+      <link>https://astaalst.be/about/jaarkalender/</link>
+      <pubDate>Tue, 03 Jan 2023 09:14:12 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/jaarkalender/</guid>
+      <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender</description>
+    </item>
+    
+    <item>
+      <title>Lidgeld</title>
+      <link>https://astaalst.be/about/lidgeld/</link>
+      <pubDate>Fri, 30 Dec 2022 20:47:12 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/lidgeld/</guid>
+      <description>AST is een ledenvereniging</description>
+    </item>
+    
+    <item>
+      <title>Cluboutfit</title>
+      <link>https://astaalst.be/about/cluboutfit/</link>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/cluboutfit/</guid>
+      <description>AST heeft een kleurrijke outfit met clublogo</description>
+    </item>
+    
+    <item>
+      <title>Clubrecords</title>
+      <link>https://astaalst.be/about/clubrecords/</link>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/clubrecords/</guid>
+      <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit</description>
+    </item>
+    
+    <item>
+      <title>Sportief beleid</title>
+      <link>https://astaalst.be/about/beleid/</link>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/beleid/</guid>
+      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     
     <item>
@@ -157,6 +203,24 @@
       
       <guid>https://astaalst.be/christmas-for-masters-2022/</guid>
       <description>Onze jaarlijkse wedstrijd voor zwemmers vanaf 20 jaar kan in 2022 niet doorgaan, wegens festiviteiten in het zwembad.</description>
+    </item>
+    
+    <item>
+      <title>Overstap vanuit een andere zwemclub</title>
+      <link>https://astaalst.be/groep/academie/overgang-vzf/</link>
+      <pubDate>Sun, 27 Jun 2021 13:51:42 +0200</pubDate>
+      
+      <guid>https://astaalst.be/groep/academie/overgang-vzf/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
+    </item>
+    
+    <item>
+      <title>Overstap vanuit Aqua United</title>
+      <link>https://astaalst.be/groep/academie/overgang-aqua/</link>
+      <pubDate>Wed, 16 Jun 2021 23:40:02 +0200</pubDate>
+      
+      <guid>https://astaalst.be/groep/academie/overgang-aqua/</guid>
+      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
     </item>
     
     <item>
@@ -175,69 +239,6 @@
       
       <guid>https://astaalst.be/about/clubgegevens/</guid>
       <description>Sinds 2002 geeft AST zwemmers van alle leeftijden de kans om zich op sportief en sociaal vlak volledig te ontwikkelen</description>
-    </item>
-    
-    <item>
-      <title>Cluboutfit</title>
-      <link>https://astaalst.be/about/cluboutfit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/about/cluboutfit/</guid>
-      <description>AST heeft een kleurrijke outfit met clublogo</description>
-    </item>
-    
-    <item>
-      <title>Clubrecords</title>
-      <link>https://astaalst.be/about/clubrecords/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/about/clubrecords/</guid>
-      <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit</description>
-    </item>
-    
-    <item>
-      <title>Jaarkalender</title>
-      <link>https://astaalst.be/about/jaarkalender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/about/jaarkalender/</guid>
-      <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender</description>
-    </item>
-    
-    <item>
-      <title>Lidgeld</title>
-      <link>https://astaalst.be/about/lidgeld/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/about/lidgeld/</guid>
-      <description>AST is een ledenvereniging</description>
-    </item>
-    
-    <item>
-      <title>Overstap vanuit Aqua United</title>
-      <link>https://astaalst.be/groep/academie/overgang-aqua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/groep/academie/overgang-aqua/</guid>
-      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
-    </item>
-    
-    <item>
-      <title>Overstap vanuit een andere zwemclub</title>
-      <link>https://astaalst.be/groep/academie/overgang-vzf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/groep/academie/overgang-vzf/</guid>
-      <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
-    </item>
-    
-    <item>
-      <title>Sportief beleid</title>
-      <link>https://astaalst.be/about/beleid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astaalst.be/about/beleid/</guid>
-      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     
     <item>
@@ -297,7 +298,7 @@
     <item>
       <title>Swim4fun</title>
       <link>https://astaalst.be/groep/swim4fun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/swim4fun/</guid>
       <description>Ben je al een jaartje ouder, maar kriebelt het nog? Misschien wil je nu eindelijk eens die crawl of die rugslag onder de knie krijgen? Of wil je gewoon onder begeleiding aan je conditie werken? De drijfveer van onze volwassenen is uiteenlopend, maar één ding hebben ze ongetwijfeld gemeen: een passie voor zwemmen!</description>
@@ -306,7 +307,7 @@
     <item>
       <title>Swim4life</title>
       <link>https://astaalst.be/groep/swim4life/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/swim4life/</guid>
       <description>Hebben de verschillende zwemstijlen geen geheimen meer voor jou? Of wil jij als ex-(competitie)zwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan is Swim4Life zeker iets voor jou!</description>
@@ -315,7 +316,7 @@
     <item>
       <title>Masters</title>
       <link>https://astaalst.be/groep/masters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/masters/</guid>
       <description>Wil jij als ex-competitiezwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan kan je de training met Swim4Life aanvullen met competitie voor masters!</description>
