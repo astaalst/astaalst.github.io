@@ -82,6 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/about/clubrecords/</loc>
+    <lastmod>2023-01-06T11:11:25+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/about/beleid/</loc>
     <lastmod>2023-01-06T10:32:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -99,11 +104,6 @@
   </url><url>
     <loc>https://astaalst.be/about/cluboutfit/</loc>
     <lastmod>2022-12-27T22:14:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/about/clubrecords/</loc>
-    <lastmod>2022-12-27T22:21:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -177,13 +177,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/about/</loc>
-    <lastmod>2023-01-06T10:38:27+01:00</lastmod>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2023-01-06T11:11:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-01-06T10:49:02+01:00</lastmod>
+    <loc>https://astaalst.be/about/</loc>
+    <lastmod>2023-01-06T10:38:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1674,146 +1674,6 @@
   </url><url>
     <loc>https://astaalst.be/post/2013-2014/ast-startdag-za-31-augustus/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/fotos-zwemstage-2013/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-11/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-9-2/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-9/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-8/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-7/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-6/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-5/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-4/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-3/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-2/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage-dag-1/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/stage/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/inschrijvingen-academie-2013-2014/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/2013-06-23-658/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/clubwedstrijd-3/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/4de-dab-bc-criterium-temse-21-april/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/nieuwe-offical/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/nieuw-badgesysteem/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/nieuwe-official/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/3de-dag-bc-criterium-zottegem-3-maart/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/clubwedstrijd-2/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/vlaams-jeugd-kampioenschap/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/zwembad-gesloten-op-11-en-12-februari-vervangtraining-voorzien/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/thuiswedstrijd-op-zondag-27-januari/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/ast-trainingen-gearriveerd/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/uitslag-clubwedstrijd/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2012-2013/clubwedstrijd/</loc>
-    <lastmod>2013-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
