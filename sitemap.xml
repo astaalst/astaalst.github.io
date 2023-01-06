@@ -72,13 +72,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/groep/sportzwemmer2/</loc>
+    <lastmod>2023-01-06T10:41:08+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/groep/sportzwemmer1/</loc>
     <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/sportzwemmer2/</loc>
-    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
+    <loc>https://astaalst.be/about/beleid/</loc>
+    <lastmod>2023-01-06T10:32:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -99,11 +104,6 @@
   </url><url>
     <loc>https://astaalst.be/about/clubrecords/</loc>
     <lastmod>2022-12-27T22:21:44+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/about/beleid/</loc>
-    <lastmod>2022-12-27T22:20:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,7 +128,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/about/clubgegevens/</loc>
-    <lastmod>2022-12-27T22:19:05+01:00</lastmod>
+    <lastmod>2023-01-06T10:49:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -163,22 +163,32 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/swim4fun/</loc>
-    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
+    <lastmod>2023-01-06T10:43:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/swim4life/</loc>
-    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
+    <lastmod>2023-01-06T10:42:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/masters/</loc>
-    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
+    <lastmod>2023-01-06T10:41:21+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/about/</loc>
+    <lastmod>2023-01-06T10:38:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-01-05T23:10:42+01:00</lastmod>
+    <lastmod>2023-01-06T10:49:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/groep/</loc>
+    <lastmod>2023-01-06T10:38:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -283,7 +293,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2021-2022/</loc>
-    <lastmod>2022-06-17T11:06:21+02:00</lastmod>
+    <lastmod>2023-01-06T10:25:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -303,7 +313,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</loc>
-    <lastmod>2021-12-13T18:06:22+01:00</lastmod>
+    <lastmod>2023-01-06T10:25:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -394,16 +404,6 @@
   </url><url>
     <loc>https://astaalst.be/tags/leren-zwemmen/</loc>
     <lastmod>2021-05-14T15:15:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/groep/</loc>
-    <lastmod>2021-05-15T09:40:41+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/about/</loc>
-    <lastmod>2021-05-13T23:10:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1042,7 +1042,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/post/2016-2017/trainersopleidingen/</loc>
+    <loc>https://astaalst.be/post/2016-2017/2016-09-02-trainersopleidingen/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

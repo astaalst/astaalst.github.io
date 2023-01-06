@@ -6,7 +6,7 @@
     <description>Recent content in Zwemgroepen on AST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Fri, 14 May 2021 15:50:44 +0200</lastBuildDate><atom:link href="https://astaalst.be/groep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 10:49:28 +0100</lastBuildDate><atom:link href="https://astaalst.be/groep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peuterzwemmen</title>
       <link>https://astaalst.be/groep/peuterzwemmen/</link>
@@ -71,6 +71,15 @@
     </item>
     
     <item>
+      <title>Sportzwemmers 2</title>
+      <link>https://astaalst.be/groep/sportzwemmer2/</link>
+      <pubDate>Fri, 06 Jan 2023 10:49:28 +0100</pubDate>
+      
+      <guid>https://astaalst.be/groep/sportzwemmer2/</guid>
+      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 2 is een sfeervolle groep 14- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
+    </item>
+    
+    <item>
       <title>Sportzwemmers 1</title>
       <link>https://astaalst.be/groep/sportzwemmer1/</link>
       <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
@@ -80,27 +89,18 @@
     </item>
     
     <item>
-      <title>Sportzwemmers 2</title>
-      <link>https://astaalst.be/groep/sportzwemmer2/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      
-      <guid>https://astaalst.be/groep/sportzwemmer2/</guid>
-      <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 2 is een sfeervolle groep 14- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
-    </item>
-    
-    <item>
-      <title>Swim4fun</title>
+      <title>Swim4Fun</title>
       <link>https://astaalst.be/groep/swim4fun/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      <pubDate>Fri, 06 Jan 2023 10:49:28 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/swim4fun/</guid>
       <description>Ben je al een jaartje ouder, maar kriebelt het nog? Misschien wil je nu eindelijk eens die crawl of die rugslag onder de knie krijgen? Of wil je gewoon onder begeleiding aan je conditie werken? De drijfveer van onze volwassenen is uiteenlopend, maar één ding hebben ze ongetwijfeld gemeen: een passie voor zwemmen!</description>
     </item>
     
     <item>
-      <title>Swim4life</title>
+      <title>Swim4Life</title>
       <link>https://astaalst.be/groep/swim4life/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      <pubDate>Fri, 06 Jan 2023 10:49:28 +0100</pubDate>
       
       <guid>https://astaalst.be/groep/swim4life/</guid>
       <description>Hebben de verschillende zwemstijlen geen geheimen meer voor jou? Of wil jij als ex-(competitie)zwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan is Swim4Life zeker iets voor jou!</description>
