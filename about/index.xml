@@ -6,14 +6,23 @@
     <description>Recent content in Aalsters Swimming Team on AST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Fri, 06 Jan 2023 10:49:28 +0100</lastBuildDate><atom:link href="https://astaalst.be/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 12:59:55 +0100</lastBuildDate><atom:link href="https://astaalst.be/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wie is wie?</title>
       <link>https://astaalst.be/about/bestuursleden/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      <pubDate>Sat, 18 Mar 2023 12:59:55 +0100</pubDate>
       
       <guid>https://astaalst.be/about/bestuursleden/</guid>
       <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan je terecht voor alle vragen en suggesties. Wil je weten wie de schouders zet onder onze club?</description>
+    </item>
+    
+    <item>
+      <title>Wedstrijden</title>
+      <link>https://astaalst.be/about/wedstrijden/</link>
+      <pubDate>Sat, 18 Mar 2023 12:59:55 +0100</pubDate>
+      
+      <guid>https://astaalst.be/about/wedstrijden/</guid>
+      <description>Sinds 2017 organiseert AST ook wedstrijden</description>
     </item>
     
     <item>
@@ -50,15 +59,6 @@
       
       <guid>https://astaalst.be/about/lidgeld/</guid>
       <description>AST is een ledenvereniging</description>
-    </item>
-    
-    <item>
-      <title>Cluboutfit</title>
-      <link>https://astaalst.be/about/cluboutfit/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      
-      <guid>https://astaalst.be/about/cluboutfit/</guid>
-      <description>AST heeft een kleurrijke outfit met clublogo</description>
     </item>
     
     <item>
