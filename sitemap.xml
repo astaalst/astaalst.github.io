@@ -88,12 +88,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midsummer-for-masters-2023/</loc>
-    <lastmod>2023-03-18T11:53:43+01:00</lastmod>
+    <lastmod>2023-04-28T15:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midzomertest-2023/</loc>
-    <lastmod>2023-03-18T12:33:43+01:00</lastmod>
+    <lastmod>2023-04-28T15:08:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -178,17 +178,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2022-2023/</loc>
-    <lastmod>2023-04-27T18:38:06+02:00</lastmod>
+    <lastmod>2023-04-28T15:27:35+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2022-2023/helpers-midzomerweekend/</loc>
+    <lastmod>2023-04-28T15:27:35+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-04-27T18:38:06+02:00</lastmod>
+    <lastmod>2023-04-28T15:27:35+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2022-2023/wedstrijdkalender/</loc>
-    <lastmod>2023-04-27T18:38:06+02:00</lastmod>
+    <lastmod>2023-04-28T15:07:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -212,18 +217,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/post/2022-2023/sint-niklaas-26-maart-2023.meet/</loc>
+    <lastmod>2023-04-28T14:22:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/post/2022-2023/temse-12-maart-2023.meet/</loc>
     <lastmod>2023-03-18T15:47:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/post/2022-2023/waregem-10-april-2023.meet/</loc>
+    <lastmod>2023-04-28T14:42:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/tags/wedstrijdverslag/</loc>
-    <lastmod>2023-04-27T12:53:03+02:00</lastmod>
+    <lastmod>2023-04-28T14:42:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2023-03-18T12:33:43+01:00</lastmod>
+    <lastmod>2023-04-28T15:10:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
