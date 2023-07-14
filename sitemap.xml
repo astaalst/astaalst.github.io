@@ -178,17 +178,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2022-2023/</loc>
-    <lastmod>2023-06-25T16:42:03+02:00</lastmod>
+    <lastmod>2023-07-14T16:51:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2023-07-14T16:51:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2022-2023/zomerkampioenschappen/</loc>
+    <lastmod>2023-07-14T16:51:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2022-2023/activiteitenkalender-2022-2023/</loc>
     <lastmod>2023-06-16T06:42:31+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-06-25T16:42:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
