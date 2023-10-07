@@ -19,10 +19,19 @@
     <item>
       <title>Academie 1</title>
       <link>https://astaalst.be/groep/academie/academie1/</link>
-      <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
+      <pubDate>Sat, 07 Oct 2023 09:46:09 +0200</pubDate>
       
       <guid>https://astaalst.be/groep/academie/academie1/</guid>
       <description>De prille start</description>
+    </item>
+    
+    <item>
+      <title>Academie 3</title>
+      <link>https://astaalst.be/groep/academie/academie3/</link>
+      <pubDate>Sat, 07 Oct 2023 09:46:09 +0200</pubDate>
+      
+      <guid>https://astaalst.be/groep/academie/academie3/</guid>
+      <description>We voegen crawl toe</description>
     </item>
     
     <item>
@@ -32,15 +41,6 @@
       
       <guid>https://astaalst.be/groep/academie/academie2/</guid>
       <description>Wij starten met rugslag</description>
-    </item>
-    
-    <item>
-      <title>Academie 3</title>
-      <link>https://astaalst.be/groep/academie/academie3/</link>
-      <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      
-      <guid>https://astaalst.be/groep/academie/academie3/</guid>
-      <description>We voegen crawl toe</description>
     </item>
     
     <item>

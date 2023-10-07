@@ -22,13 +22,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/academie/academie2/</loc>
-    <lastmod>2023-08-24T20:37:05+02:00</lastmod>
+    <loc>https://astaalst.be/groep/academie/academie3/</loc>
+    <lastmod>2023-10-07T09:41:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/academie/academie3/</loc>
-    <lastmod>2023-10-07T09:41:02+02:00</lastmod>
+    <loc>https://astaalst.be/groep/academie/academie2/</loc>
+    <lastmod>2023-08-24T20:37:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,13 +62,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/sportivo1/</loc>
-    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
+    <loc>https://astaalst.be/groep/sportivo2/</loc>
+    <lastmod>2023-10-07T09:40:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/sportivo2/</loc>
-    <lastmod>2023-10-07T09:40:38+02:00</lastmod>
+    <loc>https://astaalst.be/groep/sportivo1/</loc>
+    <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -82,6 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/midwintertest-2023/</loc>
+    <lastmod>2023-10-07T15:29:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/about/cluboutfit/</loc>
     <lastmod>2023-10-06T16:04:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,13 +97,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/christmas-for-masters-2023/</loc>
+    <lastmod>2023-10-07T15:31:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/about/wedstrijden/</loc>
     <lastmod>2023-03-18T12:23:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midsummer-for-masters-2023/</loc>
-    <lastmod>2023-06-25T16:42:03+02:00</lastmod>
+    <lastmod>2023-10-07T09:56:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -183,17 +193,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2023-10-07T09:44:48+02:00</lastmod>
+    <lastmod>2023-10-07T15:41:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/post/2023-2024/competitie-meets-academie/</loc>
-    <lastmod>2023-10-06T16:38:04+02:00</lastmod>
+    <loc>https://astaalst.be/post/2023-2024/mosselfestijn/</loc>
+    <lastmod>2023-10-07T13:59:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-10-07T09:45:31+02:00</lastmod>
+    <lastmod>2023-10-07T15:41:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -202,8 +212,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/post/2023-2024/competitie-meets-academie/</loc>
+    <lastmod>2023-10-07T15:41:53+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/tags/2022-2023/</loc>
-    <lastmod>2023-07-14T16:51:02+02:00</lastmod>
+    <lastmod>2023-10-07T09:56:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
