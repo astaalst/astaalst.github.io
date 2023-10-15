@@ -6,7 +6,7 @@
     <description>Recent content in 2023-2024 on AST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sat, 07 Oct 2023 15:31:41 +0200</lastBuildDate><atom:link href="https://astaalst.be/tags/2023-2024/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 15:42:49 +0200</lastBuildDate><atom:link href="https://astaalst.be/tags/2023-2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Midwintertest 2023</title>
       <link>https://astaalst.be/midwintertest-2023/</link>
@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Competitie meets Zwemacademie</title>
+      <link>https://astaalst.be/post/2023-2024/competitie-meets-academie/</link>
+      <pubDate>Sat, 07 Oct 2023 15:42:49 +0200</pubDate>
+      
+      <guid>https://astaalst.be/post/2023-2024/competitie-meets-academie/</guid>
+      <description>Bruggen slaan tussen de verschillende groepen en leeftijden, op woensdag 25 en zaterdag 28 oktober</description>
+    </item>
+    
+    <item>
       <title>Mosselfestijn op zondag 26 november</title>
       <link>https://astaalst.be/post/2023-2024/mosselfestijn/</link>
       <pubDate>Sat, 07 Oct 2023 15:31:41 +0200</pubDate>
@@ -41,15 +50,6 @@
       
       <guid>https://astaalst.be/post/2023-2024/activiteitenkalender-2023-2024/</guid>
       <description>De activiteitenkalender voor dit seizoen is al goed gevuld</description>
-    </item>
-    
-    <item>
-      <title>Competitie meets Zwemacademie</title>
-      <link>https://astaalst.be/post/2023-2024/competitie-meets-academie/</link>
-      <pubDate>Fri, 06 Oct 2023 16:38:59 +0200</pubDate>
-      
-      <guid>https://astaalst.be/post/2023-2024/competitie-meets-academie/</guid>
-      <description>Bruggen slaan tussen de verschillende groepen en leeftijden, op woensdag 25 en zaterdag 28 oktober</description>
     </item>
     
   </channel>

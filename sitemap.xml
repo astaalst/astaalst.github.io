@@ -83,7 +83,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midwintertest-2023/</loc>
-    <lastmod>2023-10-07T15:29:31+02:00</lastmod>
+    <lastmod>2023-10-15T18:04:44+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -98,7 +98,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/christmas-for-masters-2023/</loc>
-    <lastmod>2023-10-07T15:31:07+02:00</lastmod>
+    <lastmod>2023-10-15T18:04:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -178,12 +178,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/swim4fun/</loc>
-    <lastmod>2023-10-06T19:26:13+02:00</lastmod>
+    <lastmod>2023-10-15T17:59:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/swim4life/</loc>
-    <lastmod>2023-10-06T19:26:22+02:00</lastmod>
+    <lastmod>2023-10-15T18:04:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,7 +193,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
+    <lastmod>2023-10-15T18:04:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2023-2024/competitie-meets-academie/</loc>
     <lastmod>2023-10-07T15:41:53+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2023-10-15T18:04:44+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -202,18 +212,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-10-07T15:41:53+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.be/post/2023-2024/activiteitenkalender-2023-2024/</loc>
     <lastmod>2023-10-07T09:44:48+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2023-2024/competitie-meets-academie/</loc>
-    <lastmod>2023-10-07T15:41:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
