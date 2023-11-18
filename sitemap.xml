@@ -83,7 +83,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midwintertest-2023/</loc>
-    <lastmod>2023-11-17T18:34:54+01:00</lastmod>
+    <lastmod>2023-11-18T07:52:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -98,7 +98,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/christmas-for-masters-2023/</loc>
-    <lastmod>2023-11-17T18:34:43+01:00</lastmod>
+    <lastmod>2023-11-18T07:51:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,7 +193,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2023-11-17T18:34:54+01:00</lastmod>
+    <lastmod>2023-11-18T07:52:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -202,8 +202,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-tomas/</loc>
+    <lastmod>2023-11-17T18:23:38+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2023-11-17T18:34:54+01:00</lastmod>
+    <lastmod>2023-11-18T07:52:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1064,11 +1069,6 @@
   </url><url>
     <loc>https://astaalst.be/post/2016-2017/resultaten-aalst-25092016-2/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-tomas/</loc>
-    <lastmod>2023-11-17T18:23:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
