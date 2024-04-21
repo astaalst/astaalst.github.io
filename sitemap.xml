@@ -2,937 +2,937 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/bestuursleden/</loc>
+    <loc>https://astaalst.be/groep/academie/leerlijn/</loc>
+    <lastmod>2024-04-21T10:12:08+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/about/bestuursleden/</loc>
     <lastmod>2024-04-20T14:02:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/leerlijn/</loc>
-    <lastmod>2021-07-11T20:58:12+02:00</lastmod>
+    <loc>https://astaalst.be/about/clubgegevens/</loc>
+    <lastmod>2024-04-21T15:28:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/peuterzwemmen/</loc>
+    <loc>https://astaalst.be/groep/peuterzwemmen/</loc>
     <lastmod>2023-08-24T20:33:42+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/academie1/</loc>
+    <loc>https://astaalst.be/groep/academie/academie1/</loc>
     <lastmod>2023-10-07T09:40:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/academie3/</loc>
+    <loc>https://astaalst.be/groep/academie/academie3/</loc>
     <lastmod>2023-10-07T09:41:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/academie2/</loc>
+    <loc>https://astaalst.be/groep/academie/academie2/</loc>
     <lastmod>2023-08-24T20:37:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/academie4/</loc>
+    <loc>https://astaalst.be/groep/academie/academie4/</loc>
     <lastmod>2023-08-24T20:38:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/academie5/</loc>
+    <loc>https://astaalst.be/groep/academie/academie5/</loc>
     <lastmod>2023-08-24T20:38:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/precompetitie/</loc>
+    <loc>https://astaalst.be/groep/precompetitie/</loc>
     <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/competitie1/</loc>
+    <loc>https://astaalst.be/groep/competitie1/</loc>
     <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/competitie2/</loc>
+    <loc>https://astaalst.be/groep/competitie2/</loc>
     <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/sportivo2/</loc>
+    <loc>https://astaalst.be/groep/sportivo2/</loc>
     <lastmod>2023-10-07T09:40:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/sportivo1/</loc>
+    <loc>https://astaalst.be/groep/sportivo1/</loc>
     <lastmod>2022-12-27T21:40:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/sportzwemmer1/</loc>
+    <loc>https://astaalst.be/groep/sportzwemmer1/</loc>
     <lastmod>2023-08-24T20:38:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/sportzwemmer2/</loc>
+    <loc>https://astaalst.be/groep/sportzwemmer2/</loc>
     <lastmod>2023-08-24T20:39:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/midsummer-for-masters-2024/</loc>
-    <lastmod>2024-04-20T14:43:19+02:00</lastmod>
+    <loc>https://astaalst.be/midsummer-for-masters-2024/</loc>
+    <lastmod>2024-04-21T09:52:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/midzomertest-2024/</loc>
+    <loc>https://astaalst.be/midzomertest-2024/</loc>
     <lastmod>2024-04-20T14:41:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/midwintertest-2023/</loc>
-    <lastmod>2023-12-17T16:12:56+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/about/cluboutfit/</loc>
+    <loc>https://astaalst.be/about/cluboutfit/</loc>
     <lastmod>2023-10-06T16:04:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/lidgeld/</loc>
+    <loc>https://astaalst.be/about/lidgeld/</loc>
     <lastmod>2023-10-06T15:48:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/christmas-for-masters-2023/</loc>
-    <lastmod>2023-12-17T16:15:31+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/midsummer-for-masters-2023/</loc>
-    <lastmod>2023-10-07T09:56:52+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/midzomertest-2023/</loc>
-    <lastmod>2023-06-25T16:34:19+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/about/clubrecords/</loc>
+    <loc>https://astaalst.be/about/clubrecords/</loc>
     <lastmod>2023-01-06T11:11:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/beleid/</loc>
+    <loc>https://astaalst.be/about/beleid/</loc>
     <lastmod>2023-01-06T10:32:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/jaarkalender/</loc>
+    <loc>https://astaalst.be/about/jaarkalender/</loc>
     <lastmod>2023-01-02T18:18:05+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/overgang-vzf/</loc>
+    <loc>https://astaalst.be/about/eetfestijn/</loc>
+    <lastmod>2024-04-21T15:23:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/groep/academie/overgang-vzf/</loc>
     <lastmod>2021-06-27T11:43:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/overgang-aqua/</loc>
+    <loc>https://astaalst.be/groep/academie/overgang-aqua/</loc>
     <lastmod>2021-06-16T23:28:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/christmas-for-masters-2021/</loc>
-    <lastmod>2021-12-19T14:49:30+01:00</lastmod>
+    <loc>https://astaalst.be/about/sponsors/</loc>
+    <lastmod>2024-04-21T15:23:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/clubgegevens/</loc>
-    <lastmod>2023-10-06T15:53:07+02:00</lastmod>
+    <loc>https://astaalst.be/midwintertest-2023/</loc>
+    <lastmod>2024-04-21T14:38:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/eetfestijn/</loc>
-    <lastmod>2022-12-30T20:37:12+01:00</lastmod>
+    <loc>https://astaalst.be/christmas-for-masters-2023/</loc>
+    <lastmod>2024-04-21T14:37:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/christmas-for-masters-2019/</loc>
-    <lastmod>2021-06-16T18:28:32+02:00</lastmod>
+    <loc>https://astaalst.be/midsummer-for-masters-2023/</loc>
+    <lastmod>2024-04-21T14:38:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/christmas-for-masters-2018/</loc>
-    <lastmod>2021-06-16T18:28:32+02:00</lastmod>
+    <loc>https://astaalst.be/midzomertest-2023/</loc>
+    <lastmod>2024-04-21T14:38:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/christmas-for-masters-2017/</loc>
-    <lastmod>2021-06-16T18:28:19+02:00</lastmod>
+    <loc>https://astaalst.be/christmas-for-masters-2021/</loc>
+    <lastmod>2024-04-21T14:37:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/sponsors/</loc>
-    <lastmod>2024-04-20T14:03:25+02:00</lastmod>
+    <loc>https://astaalst.be/christmas-for-masters-2019/</loc>
+    <lastmod>2024-04-21T09:53:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/swim4fun/</loc>
+    <loc>https://astaalst.be/christmas-for-masters-2018/</loc>
+    <lastmod>2024-04-21T09:53:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/christmas-for-masters-2017/</loc>
+    <lastmod>2024-04-21T09:51:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/groep/swim4fun/</loc>
     <lastmod>2023-10-15T17:59:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/swim4life/</loc>
+    <loc>https://astaalst.be/groep/swim4life/</loc>
     <lastmod>2023-10-15T18:04:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/masters/</loc>
-    <lastmod>2023-05-29T13:21:39+02:00</lastmod>
+    <loc>https://astaalst.be/groep/masters/</loc>
+    <lastmod>2024-04-21T10:09:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2023-2024/</loc>
-    <lastmod>2024-04-20T14:58:52+02:00</lastmod>
+    <loc>https://astaalst.be/about/</loc>
+    <lastmod>2024-04-21T15:33:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2023-2024/nieuwe-official-inge/</loc>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-04-21T15:38:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/about/wedstrijden/</loc>
+    <lastmod>2024-04-21T15:34:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/groep/academie/</loc>
+    <lastmod>2024-04-21T15:38:33+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/2023-2024/</loc>
+    <lastmod>2024-04-21T14:38:16+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-inge/</loc>
     <lastmod>2024-04-20T14:56:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2023-2024/hoge-scores-jeugdfonds/</loc>
+    <loc>https://astaalst.be/post/2023-2024/hoge-scores-jeugdfonds/</loc>
     <lastmod>2024-04-20T14:58:52+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-20T14:58:52+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2023-2024/mosselfestijn/</loc>
+    <loc>https://astaalst.be/post/2023-2024/mosselfestijn/</loc>
     <lastmod>2023-12-01T17:29:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2023-2024/activiteitenkalender-2023-2024/</loc>
+    <loc>https://astaalst.be/post/2023-2024/activiteitenkalender-2023-2024/</loc>
     <lastmod>2023-11-17T17:56:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2023-2024/nieuwe-official-tomas/</loc>
+    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-tomas/</loc>
     <lastmod>2023-11-17T18:23:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2023-2024/competitie-meets-academie/</loc>
+    <loc>https://astaalst.be/post/2023-2024/competitie-meets-academie/</loc>
     <lastmod>2023-10-07T15:41:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2022-2023/</loc>
-    <lastmod>2023-10-07T09:56:52+02:00</lastmod>
+    <loc>https://astaalst.be/tags/2022-2023/</loc>
+    <lastmod>2024-04-21T14:38:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/zomerkampioenschappen/</loc>
+    <loc>https://astaalst.be/post/2022-2023/zomerkampioenschappen/</loc>
     <lastmod>2023-07-14T16:51:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/activiteitenkalender-2022-2023/</loc>
+    <loc>https://astaalst.be/post/2022-2023/activiteitenkalender-2022-2023/</loc>
     <lastmod>2023-06-16T06:42:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/wedstrijdkalender/</loc>
+    <loc>https://astaalst.be/post/2022-2023/wedstrijdkalender/</loc>
     <lastmod>2023-05-19T16:13:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/helpers-midzomerweekend/</loc>
+    <loc>https://astaalst.be/post/2022-2023/helpers-midzomerweekend/</loc>
     <lastmod>2023-06-01T09:53:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2023-03-18T12:33:03+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/about/wedstrijden/</loc>
-    <lastmod>2023-03-18T11:44:39+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2022-2023/antwerpen-21-23-april-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/antwerpen-21-23-april-2023.meet/</loc>
     <lastmod>2023-04-27T12:53:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/sint-niklaas-26-maart-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/sint-niklaas-26-maart-2023.meet/</loc>
     <lastmod>2023-04-28T14:22:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/temse-12-maart-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/temse-12-maart-2023.meet/</loc>
     <lastmod>2023-03-18T15:47:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/waregem-10-april-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/waregem-10-april-2023.meet/</loc>
     <lastmod>2023-04-28T14:42:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/wedstrijdverslag/</loc>
+    <loc>https://astaalst.be/tags/wedstrijdverslag/</loc>
     <lastmod>2023-04-28T14:42:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/antwerpen-10-12-februari-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/antwerpen-10-12-februari-2023.meet/</loc>
     <lastmod>2023-02-13T18:50:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/antwerpen-4-5-februari-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/antwerpen-4-5-februari-2023.meet/</loc>
     <lastmod>2023-02-08T10:20:30+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/antwerpen-27-29-januari-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/antwerpen-27-29-januari-2023.meet/</loc>
     <lastmod>2023-02-01T22:00:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/zottegem-22-januari-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/zottegem-22-januari-2023.meet/</loc>
     <lastmod>2023-02-01T21:36:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/nieuwe-official-jos/</loc>
+    <loc>https://astaalst.be/post/2022-2023/nieuwe-official-jos/</loc>
     <lastmod>2023-01-21T10:32:19+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/sint-niklaas-8-januari-2023.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/sint-niklaas-8-januari-2023.meet/</loc>
     <lastmod>2023-01-11T21:12:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/</loc>
+    <loc>https://astaalst.be/groep/</loc>
     <lastmod>2023-01-06T10:38:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/torhout-30-december-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/torhout-30-december-2022.meet/</loc>
     <lastmod>2023-01-03T09:17:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/blijven-zwemmen/</loc>
+    <loc>https://astaalst.be/tags/blijven-zwemmen/</loc>
     <lastmod>2022-12-30T17:31:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/competitie/</loc>
+    <loc>https://astaalst.be/tags/competitie/</loc>
     <lastmod>2022-12-30T17:30:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/pannenkoeken/</loc>
+    <loc>https://astaalst.be/post/2022-2023/pannenkoeken/</loc>
     <lastmod>2023-02-01T22:13:01+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/sint-niklaas-26-december-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/sint-niklaas-26-december-2022.meet/</loc>
     <lastmod>2022-12-30T09:29:04+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://astaalst.be/</loc>
     <lastmod>2022-12-27T21:32:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/nieuwjaarsreceptie/</loc>
+    <loc>https://astaalst.be/post/2022-2023/nieuwjaarsreceptie/</loc>
     <lastmod>2022-12-24T08:15:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/hasselt-19-20-november-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/hasselt-19-20-november-2022.meet/</loc>
     <lastmod>2022-12-30T10:32:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/liedekerke-11-november-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/liedekerke-11-november-2022.meet/</loc>
     <lastmod>2022-12-07T22:32:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/eetfestijn/</loc>
+    <loc>https://astaalst.be/post/2022-2023/eetfestijn/</loc>
     <lastmod>2022-12-27T20:56:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/ternat-6-november-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/ternat-6-november-2022.meet/</loc>
     <lastmod>2022-12-07T22:23:19+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/zwevegem-30-oktober-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/zwevegem-30-oktober-2022.meet/</loc>
     <lastmod>2022-11-09T14:36:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/gent-22-23-oktober-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/gent-22-23-oktober-2022.meet/</loc>
     <lastmod>2022-10-27T19:46:42+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/nieuwe-official-ine/</loc>
+    <loc>https://astaalst.be/post/2022-2023/nieuwe-official-ine/</loc>
     <lastmod>2022-10-27T20:48:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/eeklo-15-16-oktober-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/eeklo-15-16-oktober-2022.meet/</loc>
     <lastmod>2022-10-27T19:40:08+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/sint-niklaas-9-oktober-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2022-2023/sint-niklaas-9-oktober-2022.meet/</loc>
     <lastmod>2022-10-21T17:36:43+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/selectieteams/</loc>
+    <loc>https://astaalst.be/post/2022-2023/selectieteams/</loc>
     <lastmod>2022-10-21T18:21:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2021-2022/</loc>
-    <lastmod>2023-01-06T10:25:52+01:00</lastmod>
+    <loc>https://astaalst.be/tags/2021-2022/</loc>
+    <lastmod>2024-04-21T14:37:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/familiewandeling/</loc>
+    <loc>https://astaalst.be/post/2021-2022/familiewandeling/</loc>
     <lastmod>2022-06-05T12:07:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2022-2023/wachtlijsten/</loc>
+    <loc>https://astaalst.be/post/2022-2023/wachtlijsten/</loc>
     <lastmod>2022-06-17T11:08:36+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/sint-niklaas-9-januari-2022.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/sint-niklaas-9-januari-2022.meet/</loc>
     <lastmod>2022-01-15T18:23:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</loc>
+    <loc>https://astaalst.be/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</loc>
     <lastmod>2023-01-06T10:25:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/nieuwe-official-chris/</loc>
+    <loc>https://astaalst.be/post/2021-2022/nieuwe-official-chris/</loc>
     <lastmod>2021-12-12T10:47:03+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/christmas-for-masters-2021/</loc>
+    <loc>https://astaalst.be/post/2021-2022/christmas-for-masters-2021/</loc>
     <lastmod>2022-01-15T17:47:15+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/wachtlijsten/</loc>
+    <loc>https://astaalst.be/post/2021-2022/wachtlijsten/</loc>
     <lastmod>2022-06-17T11:06:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/leuven-13-14-november-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/leuven-13-14-november-2021.meet/</loc>
     <lastmod>2021-11-25T11:54:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/dendermonde-27-november.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/dendermonde-27-november.meet/</loc>
     <lastmod>2021-12-12T10:42:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/temse-21-november-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/temse-21-november-2021.meet/</loc>
     <lastmod>2021-11-25T11:54:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/sint-niklaas-26-december-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/sint-niklaas-26-december-2021.meet/</loc>
     <lastmod>2022-01-15T18:24:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/ternat-11-november-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/ternat-11-november-2021.meet/</loc>
     <lastmod>2021-11-14T13:49:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/kortrijk-6-7-november-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/kortrijk-6-7-november-2021.meet/</loc>
     <lastmod>2021-11-14T14:28:48+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/gent-23-24-oktober-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/gent-23-24-oktober-2021.meet/</loc>
     <lastmod>2021-11-14T14:29:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/temse-17-oktober-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/temse-17-oktober-2021.meet/</loc>
     <lastmod>2021-11-14T14:29:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2021-2022/zottegem-16-oktober-2021.meet/</loc>
+    <loc>https://astaalst.be/post/2021-2022/zottegem-16-oktober-2021.meet/</loc>
     <lastmod>2021-11-14T14:30:03+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2020-2021/</loc>
+    <loc>https://astaalst.be/tags/2020-2021/</loc>
     <lastmod>2021-08-06T08:53:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020-2021/2021-07-29-uitslagen-zomerwedstrijden/</loc>
+    <loc>https://astaalst.be/post/2020-2021/2021-07-29-uitslagen-zomerwedstrijden/</loc>
     <lastmod>2021-08-06T08:53:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/groep/academie/</loc>
-    <lastmod>2021-06-27T11:36:42+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/2020-2021/2021-06-16-afsluit-zwemacademie/</loc>
+    <loc>https://astaalst.be/post/2020-2021/2021-06-16-afsluit-zwemacademie/</loc>
     <lastmod>2021-07-11T07:04:14+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/leren-zwemmen/</loc>
+    <loc>https://astaalst.be/tags/leren-zwemmen/</loc>
     <lastmod>2021-05-14T15:15:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://astaalst.be/post/</loc>
     <lastmod>2021-05-13T09:06:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020-2021/2021-04-02-mondmaskers/</loc>
+    <loc>https://astaalst.be/post/2020-2021/2021-04-02-mondmaskers/</loc>
     <lastmod>2021-11-14T17:35:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2020-2021/2020-10-30-eindejaarsactie-2020/</loc>
+    <loc>https://astaalst.be/post/2020-2021/2020-10-30-eindejaarsactie-2020/</loc>
     <lastmod>2021-07-11T07:04:14+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2019-2020/</loc>
+    <loc>https://astaalst.be/tags/2019-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/corona/</loc>
+    <loc>https://astaalst.be/post/2019-2020/corona/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/vlaamse-kampioenschappen-2020/</loc>
+    <loc>https://astaalst.be/post/2019-2020/vlaamse-kampioenschappen-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/vlaams-jeugdkampioenschap-2020/</loc>
+    <loc>https://astaalst.be/post/2019-2020/vlaams-jeugdkampioenschap-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-wachtebeke-02-02-2020/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-wachtebeke-02-02-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/sprintwedstrijd-aalst-26-01-2020/</loc>
+    <loc>https://astaalst.be/post/2019-2020/sprintwedstrijd-aalst-26-01-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/flanders-swimming-cup/</loc>
+    <loc>https://astaalst.be/post/2019-2020/flanders-swimming-cup/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/nicholas-met-nieuwe-show-decipiatur-in-cc-emotia/</loc>
+    <loc>https://astaalst.be/post/2019-2020/nicholas-met-nieuwe-show-decipiatur-in-cc-emotia/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-wisselsprintcriterium-frank-pepermans-05-01-2020/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-wisselsprintcriterium-frank-pepermans-05-01-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-allerlaatste-kans-29-12-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-allerlaatste-kans-29-12-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-laatste-kans-22-12-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-laatste-kans-22-12-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijden-pk-lange-afstand-b-c-dag-7-te-zottegem-24-11-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijden-pk-lange-afstand-b-c-dag-7-te-zottegem-24-11-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-grote-prijs-oostende/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-grote-prijs-oostende/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/bk-open-25m/</loc>
+    <loc>https://astaalst.be/post/2019-2020/bk-open-25m/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/provinciale-a-kampioenschappen-dag-2-aalst-03-11-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/provinciale-a-kampioenschappen-dag-2-aalst-03-11-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/wedstrijd-provinciale-a-kampioenschappen-sint-niklaas-13-10-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/wedstrijd-provinciale-a-kampioenschappen-sint-niklaas-13-10-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2019-2020/400m-wedstrijd-aalst-29-09-2019/</loc>
+    <loc>https://astaalst.be/post/2019-2020/400m-wedstrijd-aalst-29-09-2019/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2018-2019/</loc>
+    <loc>https://astaalst.be/tags/2018-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/stw-recordpoging-30-07-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/stw-recordpoging-30-07-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/belgisch-kampioenschap-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/belgisch-kampioenschap-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/belgische-jeugdkampioenschap-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/belgische-jeugdkampioenschap-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/vlaams-zomercriterium-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/vlaams-zomercriterium-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/familiewandeling-zondag-23-juni-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/familiewandeling-zondag-23-juni-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/pc-dag-4-sint-niklaas-26-05-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/pc-dag-4-sint-niklaas-26-05-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/speedomeeting-oostende-24-05-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/speedomeeting-oostende-24-05-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/belgische-kampioenschappen-17-tot-19-mei-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/belgische-kampioenschappen-17-tot-19-mei-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/first-swimmeeting-4-tot-5-mei-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/first-swimmeeting-4-tot-5-mei-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/wedstrijd-eeklo-28-04-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/wedstrijd-eeklo-28-04-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/tyr-cup-leuven-22-04-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/tyr-cup-leuven-22-04-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/wedstrijden-mega-distance-swim-en-mega-swim-meet/</loc>
+    <loc>https://astaalst.be/post/2018-2019/wedstrijden-mega-distance-swim-en-mega-swim-meet/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/wedstrijd-de-grote-prijs-guido-de-cnaep-te-nijlen/</loc>
+    <loc>https://astaalst.be/post/2018-2019/wedstrijd-de-grote-prijs-guido-de-cnaep-te-nijlen/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/provinciaal-kampioenschap-dag-3-zottegem-10-03-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/provinciaal-kampioenschap-dag-3-zottegem-10-03-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/vlaamse-kampioenschappen-2019-01-03-2019-tot-03-03-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/vlaamse-kampioenschappen-2019-01-03-2019-tot-03-03-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/wedstrijd-aalst-24-02-2019-p-c-dag-2/</loc>
+    <loc>https://astaalst.be/post/2018-2019/wedstrijd-aalst-24-02-2019-p-c-dag-2/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/3145-2/</loc>
+    <loc>https://astaalst.be/post/2018-2019/3145-2/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/januari-2019/</loc>
+    <loc>https://astaalst.be/post/2018-2019/januari-2019/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/december-laatste-en-allerlaatste-kans/</loc>
+    <loc>https://astaalst.be/post/2018-2019/december-laatste-en-allerlaatste-kans/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/17-18-nov-tweedaagse-nijlen/</loc>
+    <loc>https://astaalst.be/post/2018-2019/17-18-nov-tweedaagse-nijlen/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/11-nov-novemberwedstrijd-liedekerke/</loc>
+    <loc>https://astaalst.be/post/2018-2019/11-nov-novemberwedstrijd-liedekerke/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/10-11-nov-bk-klein-bad-gent/</loc>
+    <loc>https://astaalst.be/post/2018-2019/10-11-nov-bk-klein-bad-gent/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/4-nov-prov-kampioenschappen-dag-3-lange-afstand-eeklo/</loc>
+    <loc>https://astaalst.be/post/2018-2019/4-nov-prov-kampioenschappen-dag-3-lange-afstand-eeklo/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/30-okt-paco-zwemfeest-aaslt/</loc>
+    <loc>https://astaalst.be/post/2018-2019/30-okt-paco-zwemfeest-aaslt/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/21-okt-prov-kampioenschappen-a-dag-2-zottegem/</loc>
+    <loc>https://astaalst.be/post/2018-2019/21-okt-prov-kampioenschappen-a-dag-2-zottegem/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2018-2019/7-okt-prov-kampioenschappen-a-dag-1-sint-niklaas/</loc>
+    <loc>https://astaalst.be/post/2018-2019/7-okt-prov-kampioenschappen-a-dag-1-sint-niklaas/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/2017-2018/</loc>
+    <loc>https://astaalst.be/tags/2017-2018/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/31-juli-recordpoging-sint-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/31-juli-recordpoging-sint-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/27-29-juli-belgische-kampioenschappen-charleroi/</loc>
+    <loc>https://astaalst.be/post/2017-2018/27-29-juli-belgische-kampioenschappen-charleroi/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/20-22-juli-belgische-jeugdkampioenschappen-charleroi/</loc>
+    <loc>https://astaalst.be/post/2017-2018/20-22-juli-belgische-jeugdkampioenschappen-charleroi/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/13-15-juli-vlaams-zomercriterium-izegem/</loc>
+    <loc>https://astaalst.be/post/2017-2018/13-15-juli-vlaams-zomercriterium-izegem/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/19-20-mei-200m-van-de-stad-tielt/</loc>
+    <loc>https://astaalst.be/post/2017-2018/19-20-mei-200m-van-de-stad-tielt/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/10-12-mei-bk-open-gent/</loc>
+    <loc>https://astaalst.be/post/2017-2018/10-12-mei-bk-open-gent/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/5-6-mei-first-swimmeeting-gent/</loc>
+    <loc>https://astaalst.be/post/2017-2018/5-6-mei-first-swimmeeting-gent/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/29-april-bc-criterium-dag-4-sint-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/29-april-bc-criterium-dag-4-sint-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/22-april-2018-arsc-eeklo/</loc>
+    <loc>https://astaalst.be/post/2017-2018/22-april-2018-arsc-eeklo/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/24-25-maart-mega-wedstrijden-gent/</loc>
+    <loc>https://astaalst.be/post/2017-2018/24-25-maart-mega-wedstrijden-gent/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/18-maart-namiddag-provinciaal-criterium-b-c-dag-3-zottegem/</loc>
+    <loc>https://astaalst.be/post/2017-2018/18-maart-namiddag-provinciaal-criterium-b-c-dag-3-zottegem/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/18-maart-voormiddag-prov-criterium-b-c-dag-6-zottegem/</loc>
+    <loc>https://astaalst.be/post/2017-2018/18-maart-voormiddag-prov-criterium-b-c-dag-6-zottegem/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/van-zwanen-en-haaien-een-update/</loc>
+    <loc>https://astaalst.be/post/2017-2018/van-zwanen-en-haaien-een-update/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/11-maart-wisselbeker-van-puymbrouck-sint-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/11-maart-wisselbeker-van-puymbrouck-sint-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/23-25-februari-vlaamse-kampioenschappen-antwerpen/</loc>
+    <loc>https://astaalst.be/post/2017-2018/23-25-februari-vlaamse-kampioenschappen-antwerpen/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/24-februari-masterwedstrijd-swem-2018-wachtebeke/</loc>
+    <loc>https://astaalst.be/post/2017-2018/24-februari-masterwedstrijd-swem-2018-wachtebeke/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/11-12-februari-vlaamse-jeugdkampioenschappen-antwerpen/</loc>
+    <loc>https://astaalst.be/post/2017-2018/11-12-februari-vlaamse-jeugdkampioenschappen-antwerpen/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/4-feb-dag-1-bc-criterium-2018-wachtebeke/</loc>
+    <loc>https://astaalst.be/post/2017-2018/4-feb-dag-1-bc-criterium-2018-wachtebeke/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/uitslagen-wedstrijden-januari/</loc>
+    <loc>https://astaalst.be/post/2017-2018/uitslagen-wedstrijden-januari/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/7-jan-wisselsprintcriterium-frank-pepermans/</loc>
+    <loc>https://astaalst.be/post/2017-2018/7-jan-wisselsprintcriterium-frank-pepermans/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/30-dec-allerlaatste-kans-st-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/30-dec-allerlaatste-kans-st-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/uitnodiging-nieuwjaarsreceptie-13-januari-2018/</loc>
+    <loc>https://astaalst.be/post/2017-2018/uitnodiging-nieuwjaarsreceptie-13-januari-2018/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/23-dec-laatste-kans-st-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/23-dec-laatste-kans-st-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/1819-nov-tweedaagse-nijlen/</loc>
+    <loc>https://astaalst.be/post/2017-2018/1819-nov-tweedaagse-nijlen/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/clubwedstrijd-4-november/</loc>
+    <loc>https://astaalst.be/post/2017-2018/clubwedstrijd-4-november/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/1112-nov-bk-korte-baan-gent/</loc>
+    <loc>https://astaalst.be/post/2017-2018/1112-nov-bk-korte-baan-gent/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/11-nov-novemberwedstrijd-zios-liedekerke/</loc>
+    <loc>https://astaalst.be/post/2017-2018/11-nov-novemberwedstrijd-zios-liedekerke/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/christmas-for-masters/</loc>
+    <loc>https://astaalst.be/post/2017-2018/christmas-for-masters/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/29-oct-prov-a-lange-afstand-aalst/</loc>
+    <loc>https://astaalst.be/post/2017-2018/29-oct-prov-a-lange-afstand-aalst/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/15-oct-prov-kampioenschap-a-dag-2-st-niklaas/</loc>
+    <loc>https://astaalst.be/post/2017-2018/15-oct-prov-kampioenschap-a-dag-2-st-niklaas/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/levensloop-2017-in-aalst/</loc>
+    <loc>https://astaalst.be/post/2017-2018/levensloop-2017-in-aalst/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/1-oct-prov-kampioenschap-a-dag-1-zottegem/</loc>
+    <loc>https://astaalst.be/post/2017-2018/1-oct-prov-kampioenschap-a-dag-1-zottegem/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/24-sept-2017-400m-wedstrijd-aalst/</loc>
+    <loc>https://astaalst.be/post/2017-2018/24-sept-2017-400m-wedstrijd-aalst/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2017-2018/swimexperience-louis-croenen-bij-ast-op-23-september/</loc>
+    <loc>https://astaalst.be/post/2017-2018/swimexperience-louis-croenen-bij-ast-op-23-september/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2016-2017/5-maart-bc-criterium-dag-2-aalst/</loc>
+    <loc>https://astaalst.be/post/2016-2017/5-maart-bc-criterium-dag-2-aalst/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

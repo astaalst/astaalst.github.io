@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zwemacademie on AST</title>
-    <link>http://localhost:1313/groep/academie/</link>
+    <link>https://astaalst.be/groep/academie/</link>
     <description>Recent content in Zwemacademie on AST</description>
     <generator>Hugo 0.125.0</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sat, 07 Oct 2023 09:41:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/groep/academie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 10:12:08 +0200</lastBuildDate>
+    <atom:link href="https://astaalst.be/groep/academie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leerlijn academie</title>
-      <link>http://localhost:1313/groep/academie/leerlijn/</link>
-      <pubDate>Sun, 11 Jul 2021 20:59:29 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/leerlijn/</guid>
+      <link>https://astaalst.be/groep/academie/leerlijn/</link>
+      <pubDate>Sun, 21 Apr 2024 15:56:08 +0200</pubDate>
+      <guid>https://astaalst.be/groep/academie/leerlijn/</guid>
       <description>Onze zwemacademie is bewust kleinschalig en wordt onderverdeeld in 5 geschakelde groepen. Alles over de structuur en opbouw van onze zwemacademie.</description>
     </item>
     <item>
       <title>Academie 1</title>
-      <link>http://localhost:1313/groep/academie/academie1/</link>
+      <link>https://astaalst.be/groep/academie/academie1/</link>
       <pubDate>Sat, 07 Oct 2023 09:46:09 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/academie1/</guid>
+      <guid>https://astaalst.be/groep/academie/academie1/</guid>
       <description>De prille start</description>
     </item>
     <item>
       <title>Academie 3</title>
-      <link>http://localhost:1313/groep/academie/academie3/</link>
+      <link>https://astaalst.be/groep/academie/academie3/</link>
       <pubDate>Sat, 07 Oct 2023 09:46:09 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/academie3/</guid>
+      <guid>https://astaalst.be/groep/academie/academie3/</guid>
       <description>We voegen crawl toe</description>
     </item>
     <item>
       <title>Academie 2</title>
-      <link>http://localhost:1313/groep/academie/academie2/</link>
+      <link>https://astaalst.be/groep/academie/academie2/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/academie2/</guid>
+      <guid>https://astaalst.be/groep/academie/academie2/</guid>
       <description>Wij starten met rugslag</description>
     </item>
     <item>
       <title>Academie 4</title>
-      <link>http://localhost:1313/groep/academie/academie4/</link>
+      <link>https://astaalst.be/groep/academie/academie4/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/academie4/</guid>
+      <guid>https://astaalst.be/groep/academie/academie4/</guid>
       <description>We voegen schoolslag toe</description>
     </item>
     <item>
       <title>Academie 5</title>
-      <link>http://localhost:1313/groep/academie/academie5/</link>
+      <link>https://astaalst.be/groep/academie/academie5/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/academie5/</guid>
+      <guid>https://astaalst.be/groep/academie/academie5/</guid>
       <description>Proeven van vlinderslag en wisselslag</description>
     </item>
     <item>
       <title>Overstap vanuit een andere zwemclub</title>
-      <link>http://localhost:1313/groep/academie/overgang-vzf/</link>
+      <link>https://astaalst.be/groep/academie/overgang-vzf/</link>
       <pubDate>Sun, 27 Jun 2021 13:51:42 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/overgang-vzf/</guid>
+      <guid>https://astaalst.be/groep/academie/overgang-vzf/</guid>
       <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
     </item>
     <item>
       <title>Overstap vanuit Aqua United</title>
-      <link>http://localhost:1313/groep/academie/overgang-aqua/</link>
+      <link>https://astaalst.be/groep/academie/overgang-aqua/</link>
       <pubDate>Wed, 16 Jun 2021 23:40:02 +0200</pubDate>
-      <guid>http://localhost:1313/groep/academie/overgang-aqua/</guid>
+      <guid>https://astaalst.be/groep/academie/overgang-aqua/</guid>
       <description>AST verwelkomt ook zwemmers die elders begonnen zijn</description>
     </item>
   </channel>

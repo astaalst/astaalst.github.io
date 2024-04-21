@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zwemgroepen on AST</title>
-    <link>http://localhost:1313/groep/</link>
+    <link>https://astaalst.be/groep/</link>
     <description>Recent content in Zwemgroepen on AST</description>
     <generator>Hugo 0.125.0</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sun, 15 Oct 2023 18:04:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/groep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 10:09:26 +0200</lastBuildDate>
+    <atom:link href="https://astaalst.be/groep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peuterzwemmen</title>
-      <link>http://localhost:1313/groep/peuterzwemmen/</link>
+      <link>https://astaalst.be/groep/peuterzwemmen/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/peuterzwemmen/</guid>
+      <guid>https://astaalst.be/groep/peuterzwemmen/</guid>
       <description>Is jouw kind gek op water, maar nog te jong om echt te leren zwemmen? Of lijkt wat ‘qualitytime’ in het water met je kind wel fijn? Peuterzwemmen leert kinderen van 3 jaar op een spelende manier te bewegen in het water onder begeleiding van één ouder.</description>
     </item>
     <item>
       <title>Pre-competitie</title>
-      <link>http://localhost:1313/groep/precompetitie/</link>
+      <link>https://astaalst.be/groep/precompetitie/</link>
       <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      <guid>http://localhost:1313/groep/precompetitie/</guid>
+      <guid>https://astaalst.be/groep/precompetitie/</guid>
       <description>Vraag jij je stiekem af wat jij waard bent in het water of kriebelt het om te racen tegen leeftijdsgenoten? De précompetitie zijn 9- en 10-jarige zwemmers die de eerste stappen zetten voor een veelbelovende zwemcarrière.</description>
     </item>
     <item>
       <title>Competitie 1</title>
-      <link>http://localhost:1313/groep/competitie1/</link>
+      <link>https://astaalst.be/groep/competitie1/</link>
       <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      <guid>http://localhost:1313/groep/competitie1/</guid>
+      <guid>https://astaalst.be/groep/competitie1/</guid>
       <description>Smaakt het competitiezwemmen naar meer en wil je graag je eigen grenzen verleggen? De zwemmers in competitie 1 zijn tussen de 11 en de 14 jaar en leren hun ambitie in het zwemmen ontdekken.</description>
     </item>
     <item>
       <title>Competitie 2</title>
-      <link>http://localhost:1313/groep/competitie2/</link>
+      <link>https://astaalst.be/groep/competitie2/</link>
       <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      <guid>http://localhost:1313/groep/competitie2/</guid>
+      <guid>https://astaalst.be/groep/competitie2/</guid>
       <description>Kent jouw ambitie geen grenzen en sta je te popelen om je zwemcarrière naar een hoger niveau te tillen? De zwemmers in competitie 2 zijn minimum 14 jaar en kiezen naast hun studies voor een (bijna) voltijds sportprogramma.</description>
     </item>
     <item>
       <title>Sportivo&#39;s 2</title>
-      <link>http://localhost:1313/groep/sportivo2/</link>
+      <link>https://astaalst.be/groep/sportivo2/</link>
       <pubDate>Sat, 07 Oct 2023 09:46:09 +0200</pubDate>
-      <guid>http://localhost:1313/groep/sportivo2/</guid>
+      <guid>https://astaalst.be/groep/sportivo2/</guid>
       <description>Heb jij je waterangst volledig overwonnen en kan jij vlot een lengte rugcrawl zwemmen? Sportivo’s 2 is een groep 7- tot 12-jarigen die staat te popelen om de technieken van borstcrawl en schoolslag aangeleerd te krijgen.</description>
     </item>
     <item>
       <title>Sportivo&#39;s 1</title>
-      <link>http://localhost:1313/groep/sportivo1/</link>
+      <link>https://astaalst.be/groep/sportivo1/</link>
       <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
-      <guid>http://localhost:1313/groep/sportivo1/</guid>
+      <guid>https://astaalst.be/groep/sportivo1/</guid>
       <description>Heb jij nog niet zo veel zwemervaring, maar zou jij binnenkort graag een volledige lengte kunnen overzwemmen? Sportivo’s 1 is een groep 7- tot 12-jarigen die de basisvaardigheden van watergewenning en rugcrawl aanleren.</description>
     </item>
     <item>
       <title>Sportzwemmers 1</title>
-      <link>http://localhost:1313/groep/sportzwemmer1/</link>
+      <link>https://astaalst.be/groep/sportzwemmer1/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/sportzwemmer1/</guid>
+      <guid>https://astaalst.be/groep/sportzwemmer1/</guid>
       <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 1 is een sfeervolle groep 10- tot 13-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
     </item>
     <item>
       <title>Sportzwemmers 2</title>
-      <link>http://localhost:1313/groep/sportzwemmer2/</link>
+      <link>https://astaalst.be/groep/sportzwemmer2/</link>
       <pubDate>Fri, 06 Oct 2023 15:37:00 +0200</pubDate>
-      <guid>http://localhost:1313/groep/sportzwemmer2/</guid>
+      <guid>https://astaalst.be/groep/sportzwemmer2/</guid>
       <description>Geen zin in competitie? Geen probleem! Ook jij kan bij ons terecht! Sportzwemmers 2 is een sfeervolle groep 14- tot 18-jarigen die graag op recreatief niveau verder werken aan hun techniek en conditie.</description>
     </item>
     <item>
       <title>Swim4Fun</title>
-      <link>http://localhost:1313/groep/swim4fun/</link>
+      <link>https://astaalst.be/groep/swim4fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/groep/swim4fun/</guid>
+      <guid>https://astaalst.be/groep/swim4fun/</guid>
       <description>Ben je al een jaartje ouder, maar kriebelt het nog? Misschien wil je nu eindelijk eens die crawl of die rugslag onder de knie krijgen? Of wil je gewoon onder begeleiding aan je conditie werken? De drijfveer van onze volwassenen is uiteenlopend, maar één ding hebben ze ongetwijfeld gemeen: een passie voor zwemmen!</description>
     </item>
     <item>
       <title>Swim4Life</title>
-      <link>http://localhost:1313/groep/swim4life/</link>
+      <link>https://astaalst.be/groep/swim4life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/groep/swim4life/</guid>
+      <guid>https://astaalst.be/groep/swim4life/</guid>
       <description>Hebben de verschillende zwemstijlen geen geheimen meer voor jou? Of wil jij als ex-(competitie)zwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan is Swim4Life zeker iets voor jou!</description>
     </item>
     <item>
       <title>Masters</title>
-      <link>http://localhost:1313/groep/masters/</link>
-      <pubDate>Mon, 29 May 2023 13:25:12 +0200</pubDate>
-      <guid>http://localhost:1313/groep/masters/</guid>
+      <link>https://astaalst.be/groep/masters/</link>
+      <pubDate>Sun, 21 Apr 2024 15:56:08 +0200</pubDate>
+      <guid>https://astaalst.be/groep/masters/</guid>
       <description>Wil jij als ex-competitiezwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan kan je de training met Swim4Life aanvullen met competitie voor masters!</description>
     </item>
   </channel>
