@@ -88,7 +88,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midzomertest-2024/</loc>
-    <lastmod>2024-05-14T19:06:53+02:00</lastmod>
+    <lastmod>2024-05-22T20:25:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,17 +193,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2024-05-14T19:06:53+02:00</lastmod>
+    <lastmod>2024-05-22T20:25:15+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-jurgen/</loc>
+    <lastmod>2024-05-14T18:44:29+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-05-22T20:25:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2023-2024/helpers-midzomerweekend/</loc>
     <lastmod>2024-05-14T19:02:08+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-05-14T19:06:53+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -939,11 +944,6 @@
   </url><url>
     <loc>https://astaalst.be/post/2016-2017/5-maart-bc-criterium-dag-2-aalst/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2023-2024/nieuwe-official-jurgen/</loc>
-    <lastmod>2024-05-14T18:44:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
