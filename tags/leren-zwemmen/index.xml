@@ -6,21 +6,21 @@
     <description>Recent content in Leren zwemmen on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sun, 21 Apr 2024 15:38:33 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 22:32:11 +0200</lastBuildDate>
     <atom:link href="https://astaalst.be/tags/leren-zwemmen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie is wie?</title>
+      <link>https://astaalst.be/about/bestuursleden/</link>
+      <pubDate>Thu, 29 Aug 2024 22:32:43 +0200</pubDate>
+      <guid>https://astaalst.be/about/bestuursleden/</guid>
+      <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan je terecht voor alle vragen en suggesties. Wil je weten wie de schouders zet onder onze club?</description>
+    </item>
     <item>
       <title>Leerlijn academie</title>
       <link>https://astaalst.be/groep/academie/leerlijn/</link>
       <pubDate>Sun, 21 Apr 2024 15:56:08 +0200</pubDate>
       <guid>https://astaalst.be/groep/academie/leerlijn/</guid>
       <description>Onze zwemacademie is bewust kleinschalig en wordt onderverdeeld in 5 geschakelde groepen. Alles over de structuur en opbouw van onze zwemacademie.</description>
-    </item>
-    <item>
-      <title>Wie is wie?</title>
-      <link>https://astaalst.be/about/bestuursleden/</link>
-      <pubDate>Sat, 20 Apr 2024 14:53:46 +0200</pubDate>
-      <guid>https://astaalst.be/about/bestuursleden/</guid>
-      <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan je terecht voor alle vragen en suggesties. Wil je weten wie de schouders zet onder onze club?</description>
     </item>
     <item>
       <title>Clubhistoriek</title>
@@ -86,6 +86,13 @@
       <description>Heb jij nog niet zo veel zwemervaring, maar zou jij binnenkort graag een volledige lengte kunnen overzwemmen? Sportivo’s 1 is een groep 7- tot 12-jarigen die de basisvaardigheden van watergewenning en rugcrawl aanleren.</description>
     </item>
     <item>
+      <title>Jaarkalender</title>
+      <link>https://astaalst.be/about/jaarkalender/</link>
+      <pubDate>Thu, 29 Aug 2024 22:32:43 +0200</pubDate>
+      <guid>https://astaalst.be/about/jaarkalender/</guid>
+      <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender</description>
+    </item>
+    <item>
       <title>Cluboutfit</title>
       <link>https://astaalst.be/about/cluboutfit/</link>
       <pubDate>Fri, 06 Oct 2023 16:14:17 +0200</pubDate>
@@ -112,13 +119,6 @@
       <pubDate>Fri, 06 Jan 2023 10:32:55 +0100</pubDate>
       <guid>https://astaalst.be/about/beleid/</guid>
       <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
-    </item>
-    <item>
-      <title>Jaarkalender</title>
-      <link>https://astaalst.be/about/jaarkalender/</link>
-      <pubDate>Tue, 03 Jan 2023 09:14:12 +0100</pubDate>
-      <guid>https://astaalst.be/about/jaarkalender/</guid>
-      <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender</description>
     </item>
     <item>
       <title>Mosselfestijn</title>
@@ -233,38 +233,10 @@
       <description>Onze jonge competitiezwemmers laten zich zien!</description>
     </item>
     <item>
-      <title>Familiewandeling 26 juni 2022 en kick-off 20 jaar AST</title>
-      <link>https://astaalst.be/post/2021-2022/familiewandeling/</link>
-      <pubDate>Sat, 04 Jun 2022 10:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/post/2021-2022/familiewandeling/</guid>
-      <description>AST bestaat 20 jaar en dat willen we vieren!</description>
-    </item>
-    <item>
       <title>Wachtlijsten</title>
       <link>https://astaalst.be/post/2022-2023/wachtlijsten/</link>
       <pubDate>Sat, 14 May 2022 16:13:26 +0000</pubDate>
       <guid>https://astaalst.be/post/2022-2023/wachtlijsten/</guid>
-      <description>Het is leuk in het nieuwe zwembad&amp;hellip; onze groepen zitten goed vol.</description>
-    </item>
-    <item>
-      <title>Januari 2023 in Emotia Erpe-Mere: Kamiel Spiessens</title>
-      <link>https://astaalst.be/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</link>
-      <pubDate>Sun, 12 Dec 2021 23:00:00 +0000</pubDate>
-      <guid>https://astaalst.be/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</guid>
-      <description>Buitenkans: kaarten in voorverkoop</description>
-    </item>
-    <item>
-      <title>Christmas for Masters 2021</title>
-      <link>https://astaalst.be/post/2021-2022/christmas-for-masters-2021/</link>
-      <pubDate>Wed, 01 Dec 2021 15:51:30 +0000</pubDate>
-      <guid>https://astaalst.be/post/2021-2022/christmas-for-masters-2021/</guid>
-      <description>Update: volgende editie op 17 december 2022</description>
-    </item>
-    <item>
-      <title>Wachtlijsten</title>
-      <link>https://astaalst.be/post/2021-2022/wachtlijsten/</link>
-      <pubDate>Sun, 14 Nov 2021 16:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/post/2021-2022/wachtlijsten/</guid>
       <description>Het is leuk in het nieuwe zwembad&amp;hellip; onze groepen zitten goed vol.</description>
     </item>
     <item>

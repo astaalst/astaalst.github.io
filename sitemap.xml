@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://astaalst.be/groep/academie/leerlijn/</loc>
-    <lastmod>2024-04-21T10:12:08+02:00</lastmod>
+    <loc>https://astaalst.be/about/bestuursleden/</loc>
+    <lastmod>2024-08-29T21:26:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/about/bestuursleden/</loc>
-    <lastmod>2024-04-20T14:02:56+02:00</lastmod>
+    <loc>https://astaalst.be/groep/academie/leerlijn/</loc>
+    <lastmod>2024-04-21T10:12:08+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -82,6 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/about/jaarkalender/</loc>
+    <lastmod>2024-08-29T21:51:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/midsummer-for-masters-2024/</loc>
     <lastmod>2024-06-24T12:54:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -112,11 +117,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/about/jaarkalender/</loc>
-    <lastmod>2023-01-02T18:18:05+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.be/about/eetfestijn/</loc>
     <lastmod>2024-04-21T15:23:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -133,7 +133,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/about/sponsors/</loc>
-    <lastmod>2024-04-21T15:23:58+02:00</lastmod>
+    <lastmod>2024-08-29T22:32:11+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -192,6 +192,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-08-29T22:32:11+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
     <lastmod>2024-06-24T12:54:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -199,11 +204,6 @@
   </url><url>
     <loc>https://astaalst.be/post/2023-2024/nieuwe-official-jurgen/</loc>
     <lastmod>2024-05-14T18:44:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-06-24T12:54:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -427,88 +427,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/2021-2022/</loc>
-    <lastmod>2024-04-21T14:37:51+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/familiewandeling/</loc>
-    <lastmod>2022-06-05T12:07:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.be/post/2022-2023/wachtlijsten/</loc>
     <lastmod>2022-06-17T11:08:36+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/sint-niklaas-9-januari-2022.meet/</loc>
-    <lastmod>2022-01-15T18:23:18+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/januari-2023-kamiel-spiessens-in-emotia-erpe-mere/</loc>
-    <lastmod>2023-01-06T10:25:52+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/nieuwe-official-chris/</loc>
-    <lastmod>2021-12-12T10:47:03+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/christmas-for-masters-2021/</loc>
-    <lastmod>2022-01-15T17:47:15+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/wachtlijsten/</loc>
-    <lastmod>2022-06-17T11:06:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/leuven-13-14-november-2021.meet/</loc>
-    <lastmod>2021-11-25T11:54:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/dendermonde-27-november.meet/</loc>
-    <lastmod>2021-12-12T10:42:39+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/temse-21-november-2021.meet/</loc>
-    <lastmod>2021-11-25T11:54:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/sint-niklaas-26-december-2021.meet/</loc>
-    <lastmod>2022-01-15T18:24:07+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/ternat-11-november-2021.meet/</loc>
-    <lastmod>2021-11-14T13:49:59+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/kortrijk-6-7-november-2021.meet/</loc>
-    <lastmod>2021-11-14T14:28:48+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/gent-23-24-oktober-2021.meet/</loc>
-    <lastmod>2021-11-14T14:29:06+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/temse-17-oktober-2021.meet/</loc>
-    <lastmod>2021-11-14T14:29:31+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/post/2021-2022/zottegem-16-oktober-2021.meet/</loc>
-    <lastmod>2021-11-14T14:30:03+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -544,6 +464,11 @@
   </url><url>
     <loc>https://astaalst.be/post/2020-2021/2020-10-30-eindejaarsactie-2020/</loc>
     <lastmod>2021-07-11T07:04:14+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/2021-2022/</loc>
+    <lastmod>2024-04-21T14:37:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
