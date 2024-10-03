@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aalsters Swimming Team on AST</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://astaalst.be/about/</link>
     <description>Recent content in Aalsters Swimming Team on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
     <lastBuildDate>Sun, 29 Sep 2024 23:04:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astaalst.be/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wie is wie?</title>
-      <link>http://localhost:1313/about/bestuursleden/</link>
+      <link>https://astaalst.be/about/bestuursleden/</link>
       <pubDate>Thu, 29 Aug 2024 22:32:43 +0200</pubDate>
-      <guid>http://localhost:1313/about/bestuursleden/</guid>
+      <guid>https://astaalst.be/about/bestuursleden/</guid>
       <description>Op &lt;a href=&#34;mailto:bestuur@astaalst.be&#34;&gt;bestuur@astaalst.be&lt;/a&gt; kan je terecht voor alle vragen en suggesties. Wil je weten wie de schouders zet onder onze club?</description>
     </item>
     <item>
       <title>Clubhistoriek</title>
-      <link>http://localhost:1313/about/clubgegevens/</link>
+      <link>https://astaalst.be/about/clubgegevens/</link>
       <pubDate>Wed, 22 Aug 2012 22:13:13 +0000</pubDate>
-      <guid>http://localhost:1313/about/clubgegevens/</guid>
+      <guid>https://astaalst.be/about/clubgegevens/</guid>
       <description>Sinds 2002 geeft AST zwemmers van alle leeftijden de kans om zich op sportief en sociaal vlak volledig te ontwikkelen</description>
     </item>
     <item>
       <title>Jaarkalender</title>
-      <link>http://localhost:1313/about/jaarkalender/</link>
+      <link>https://astaalst.be/about/jaarkalender/</link>
       <pubDate>Thu, 29 Aug 2024 22:32:43 +0200</pubDate>
-      <guid>http://localhost:1313/about/jaarkalender/</guid>
+      <guid>https://astaalst.be/about/jaarkalender/</guid>
       <description>De clubactiviteiten en wedstrijden leggen we per seizoen vast in een kalender</description>
     </item>
     <item>
       <title>Cluboutfit</title>
-      <link>http://localhost:1313/about/cluboutfit/</link>
+      <link>https://astaalst.be/about/cluboutfit/</link>
       <pubDate>Fri, 06 Oct 2023 16:14:17 +0200</pubDate>
-      <guid>http://localhost:1313/about/cluboutfit/</guid>
+      <guid>https://astaalst.be/about/cluboutfit/</guid>
       <description>AST heeft een kleurrijke outfit met clublogo</description>
     </item>
     <item>
       <title>Lidgeld</title>
-      <link>http://localhost:1313/about/lidgeld/</link>
+      <link>https://astaalst.be/about/lidgeld/</link>
       <pubDate>Fri, 06 Oct 2023 16:14:17 +0200</pubDate>
-      <guid>http://localhost:1313/about/lidgeld/</guid>
+      <guid>https://astaalst.be/about/lidgeld/</guid>
       <description>AST is een ledenvereniging</description>
     </item>
     <item>
       <title>Clubrecords</title>
-      <link>http://localhost:1313/about/clubrecords/</link>
+      <link>https://astaalst.be/about/clubrecords/</link>
       <pubDate>Fri, 06 Jan 2023 11:12:04 +0100</pubDate>
-      <guid>http://localhost:1313/about/clubrecords/</guid>
+      <guid>https://astaalst.be/about/clubrecords/</guid>
       <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit</description>
     </item>
     <item>
       <title>Sportief beleid</title>
-      <link>http://localhost:1313/about/beleid/</link>
+      <link>https://astaalst.be/about/beleid/</link>
       <pubDate>Fri, 06 Jan 2023 10:32:55 +0100</pubDate>
-      <guid>http://localhost:1313/about/beleid/</guid>
+      <guid>https://astaalst.be/about/beleid/</guid>
       <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     <item>
       <title>Mosselfestijn</title>
-      <link>http://localhost:1313/about/eetfestijn/</link>
+      <link>https://astaalst.be/about/eetfestijn/</link>
       <pubDate>Fri, 14 Oct 2022 20:41:39 +0000</pubDate>
-      <guid>http://localhost:1313/about/eetfestijn/</guid>
+      <guid>https://astaalst.be/about/eetfestijn/</guid>
       <description>Gezellig samenzijn met de hele club</description>
     </item>
     <item>
       <title>Sponsors</title>
-      <link>http://localhost:1313/about/sponsors/</link>
+      <link>https://astaalst.be/about/sponsors/</link>
       <pubDate>Mon, 14 Sep 2015 20:41:39 +0000</pubDate>
-      <guid>http://localhost:1313/about/sponsors/</guid>
+      <guid>https://astaalst.be/about/sponsors/</guid>
       <description>Financiële partners maken onze clubwerking betaalbaar</description>
     </item>
   </channel>
