@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023-2024 on AST</title>
-    <link>https://astaalst.be/tags/2023-2024/</link>
+    <link>http://localhost:1313/tags/2023-2024/</link>
     <description>Recent content in 2023-2024 on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
     <lastBuildDate>Mon, 24 Jun 2024 12:54:25 +0200</lastBuildDate>
-    <atom:link href="https://astaalst.be/tags/2023-2024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/2023-2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Midsummer 4 Masters 2024</title>
-      <link>https://astaalst.be/midsummer-for-masters-2024/</link>
+      <link>http://localhost:1313/midsummer-for-masters-2024/</link>
       <pubDate>Mon, 18 Mar 2024 07:13:02 +0000</pubDate>
-      <guid>https://astaalst.be/midsummer-for-masters-2024/</guid>
+      <guid>http://localhost:1313/midsummer-for-masters-2024/</guid>
       <description>Ook dit jaar een midzomerwedstrijd voor masters op zaterdagavond 22 juni 2024</description>
     </item>
     <item>
       <title>Midzomertest 2024</title>
-      <link>https://astaalst.be/midzomertest-2024/</link>
+      <link>http://localhost:1313/midzomertest-2024/</link>
       <pubDate>Mon, 18 Mar 2024 07:13:02 +0000</pubDate>
-      <guid>https://astaalst.be/midzomertest-2024/</guid>
+      <guid>http://localhost:1313/midzomertest-2024/</guid>
       <description>Op zaterdagmiddag 22 juni 2024 organiseren we een open jeugdwedstrijd met 100m en 200m in alle stijlen.</description>
     </item>
     <item>
       <title>Midwintertest 2023</title>
-      <link>https://astaalst.be/midwintertest-2023/</link>
+      <link>http://localhost:1313/midwintertest-2023/</link>
       <pubDate>Sat, 07 Oct 2023 07:13:02 +0000</pubDate>
-      <guid>https://astaalst.be/midwintertest-2023/</guid>
+      <guid>http://localhost:1313/midwintertest-2023/</guid>
       <description>Op zaterdagmiddag 26 december 2023 organiseren we een jeugdwedstrijd met 100m en 200m in alle stijlen.</description>
     </item>
     <item>
       <title>Christmas for Masters 2023</title>
-      <link>https://astaalst.be/christmas-for-masters-2023/</link>
+      <link>http://localhost:1313/christmas-for-masters-2023/</link>
       <pubDate>Fri, 15 Sep 2023 07:13:02 +0000</pubDate>
-      <guid>https://astaalst.be/christmas-for-masters-2023/</guid>
+      <guid>http://localhost:1313/christmas-for-masters-2023/</guid>
       <description>Onze jaarlijkse wedstrijd voor zwemmers vanaf 20 jaar keert weer terug op de zaterdag voor kerstmis 2023</description>
     </item>
     <item>
       <title>Een nieuwe official erbij</title>
-      <link>https://astaalst.be/post/2023-2024/nieuwe-official-jurgen/</link>
+      <link>http://localhost:1313/post/2023-2024/nieuwe-official-jurgen/</link>
       <pubDate>Fri, 03 May 2024 16:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/nieuwe-official-jurgen/</guid>
+      <guid>http://localhost:1313/post/2023-2024/nieuwe-official-jurgen/</guid>
       <description>Jurgen slaagde met glans in het examen TAK.</description>
     </item>
     <item>
       <title>Helpers gezocht voor twee zwemwedstrijden op zaterdag 22 juni</title>
-      <link>https://astaalst.be/post/2023-2024/helpers-midzomerweekend/</link>
+      <link>http://localhost:1313/post/2023-2024/helpers-midzomerweekend/</link>
       <pubDate>Fri, 10 May 2024 20:41:39 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/helpers-midzomerweekend/</guid>
+      <guid>http://localhost:1313/post/2023-2024/helpers-midzomerweekend/</guid>
       <description>AST organiseert jeugdwedstrijd en masterswedstrijd in Aquatopia</description>
     </item>
     <item>
       <title>Een nieuwe official erbij</title>
-      <link>https://astaalst.be/post/2023-2024/nieuwe-official-inge/</link>
+      <link>http://localhost:1313/post/2023-2024/nieuwe-official-inge/</link>
       <pubDate>Sun, 24 Mar 2024 16:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/nieuwe-official-inge/</guid>
+      <guid>http://localhost:1313/post/2023-2024/nieuwe-official-inge/</guid>
       <description>Inge slaagde met glans in het examen TAK.</description>
     </item>
     <item>
       <title>Onze jeugdwerking is opnieuw bekroond door de zwemfederatie</title>
-      <link>https://astaalst.be/post/2023-2024/hoge-scores-jeugdfonds/</link>
+      <link>http://localhost:1313/post/2023-2024/hoge-scores-jeugdfonds/</link>
       <pubDate>Fri, 26 Jan 2024 11:32:03 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/hoge-scores-jeugdfonds/</guid>
+      <guid>http://localhost:1313/post/2023-2024/hoge-scores-jeugdfonds/</guid>
       <description>Via het jeugdfonds stimuleert de zwemfederatie de clubs om hun werking te blijven vernieuwen en verbeteren</description>
     </item>
     <item>
       <title>Mosselfestijn op zondag 26 november</title>
-      <link>https://astaalst.be/post/2023-2024/mosselfestijn/</link>
+      <link>http://localhost:1313/post/2023-2024/mosselfestijn/</link>
       <pubDate>Sat, 07 Oct 2023 09:32:03 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/mosselfestijn/</guid>
+      <guid>http://localhost:1313/post/2023-2024/mosselfestijn/</guid>
       <description>Je kan nu al reserveren om met familie en vrienden te komen eten</description>
     </item>
     <item>
       <title>Activiteitenkalender 2023-2024</title>
-      <link>https://astaalst.be/post/2023-2024/activiteitenkalender-2023-2024/</link>
+      <link>http://localhost:1313/post/2023-2024/activiteitenkalender-2023-2024/</link>
       <pubDate>Thu, 24 Aug 2023 09:32:03 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/activiteitenkalender-2023-2024/</guid>
+      <guid>http://localhost:1313/post/2023-2024/activiteitenkalender-2023-2024/</guid>
       <description>De activiteitenkalender voor dit seizoen is al goed gevuld</description>
     </item>
     <item>
       <title>Een nieuwe official erbij</title>
-      <link>https://astaalst.be/post/2023-2024/nieuwe-official-tomas/</link>
+      <link>http://localhost:1313/post/2023-2024/nieuwe-official-tomas/</link>
       <pubDate>Wed, 18 Oct 2023 16:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/nieuwe-official-tomas/</guid>
+      <guid>http://localhost:1313/post/2023-2024/nieuwe-official-tomas/</guid>
       <description>Tomas slaagde met glans in het examen TAK.</description>
     </item>
     <item>
       <title>Competitie meets Zwemacademie</title>
-      <link>https://astaalst.be/post/2023-2024/competitie-meets-academie/</link>
+      <link>http://localhost:1313/post/2023-2024/competitie-meets-academie/</link>
       <pubDate>Wed, 04 Oct 2023 09:32:03 +0000</pubDate>
-      <guid>https://astaalst.be/post/2023-2024/competitie-meets-academie/</guid>
+      <guid>http://localhost:1313/post/2023-2024/competitie-meets-academie/</guid>
       <description>Bruggen slaan tussen de verschillende groepen en leeftijden, op woensdag 25 en zaterdag 28 oktober</description>
     </item>
   </channel>
