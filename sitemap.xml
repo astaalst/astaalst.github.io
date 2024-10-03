@@ -82,6 +82,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/christmas-for-masters-2024/</loc>
+    <lastmod>2024-10-03T18:21:23+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/midwintertest-2024/</loc>
+    <lastmod>2024-10-03T18:20:41+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/about/jaarkalender/</loc>
     <lastmod>2024-08-29T21:51:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -133,7 +143,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/about/sponsors/</loc>
-    <lastmod>2024-08-29T22:32:11+02:00</lastmod>
+    <lastmod>2024-09-29T23:04:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -193,17 +203,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2024-2025/</loc>
-    <lastmod>2024-08-29T22:50:05+02:00</lastmod>
+    <lastmod>2024-10-03T18:21:23+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-10-03T18:21:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2024-2025/activiteitenkalender-2024-2025/</loc>
     <lastmod>2024-08-29T22:50:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-08-29T23:07:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
