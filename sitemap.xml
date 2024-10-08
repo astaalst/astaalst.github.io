@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://astaalst.be/about/bestuursleden/</loc>
-    <lastmod>2024-08-29T21:26:54+02:00</lastmod>
+    <loc>https://astaalst.be/groep/academie/leerlijn/</loc>
+    <lastmod>2024-10-08T19:28:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/groep/academie/leerlijn/</loc>
-    <lastmod>2024-04-21T10:12:08+02:00</lastmod>
+    <loc>https://astaalst.be/about/bestuursleden/</loc>
+    <lastmod>2024-08-29T21:26:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,32 +18,32 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/peuterzwemmen/</loc>
-    <lastmod>2023-08-24T20:33:42+02:00</lastmod>
+    <lastmod>2024-10-08T19:27:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/academie/academie1/</loc>
-    <lastmod>2023-10-07T09:40:51+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/groep/academie/academie3/</loc>
-    <lastmod>2023-10-07T09:41:02+02:00</lastmod>
+    <lastmod>2024-10-08T19:30:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/academie/academie2/</loc>
-    <lastmod>2023-08-24T20:37:05+02:00</lastmod>
+    <lastmod>2024-10-08T20:53:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/groep/academie/academie3/</loc>
+    <lastmod>2024-10-08T20:58:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/academie/academie4/</loc>
-    <lastmod>2023-08-24T20:38:00+02:00</lastmod>
+    <lastmod>2024-10-08T20:58:45+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/groep/academie/academie5/</loc>
-    <lastmod>2023-08-24T20:38:27+02:00</lastmod>
+    <lastmod>2024-10-08T20:59:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -83,12 +83,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/christmas-for-masters-2024/</loc>
-    <lastmod>2024-10-03T18:21:23+02:00</lastmod>
+    <lastmod>2024-10-08T21:23:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/midwintertest-2024/</loc>
-    <lastmod>2024-10-03T18:20:41+02:00</lastmod>
+    <lastmod>2024-10-08T21:21:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -202,13 +202,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/2024-2025/</loc>
-    <lastmod>2024-10-03T18:21:23+02:00</lastmod>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-10-08T21:23:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-10-03T18:24:42+02:00</lastmod>
+    <loc>https://astaalst.be/tags/2024-2025/</loc>
+    <lastmod>2024-10-08T21:23:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
