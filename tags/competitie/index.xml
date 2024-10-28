@@ -6,7 +6,7 @@
     <description>Recent content in Competitiezwemmen on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Sun, 27 Oct 2024 14:56:10 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 08:48:20 +0100</lastBuildDate>
     <atom:link href="https://astaalst.be/tags/competitie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wie is wie?</title>
@@ -32,16 +32,23 @@
     <item>
       <title>Competitie 1</title>
       <link>https://astaalst.be/groep/competitie1/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      <pubDate>Sun, 27 Oct 2024 14:57:39 +0100</pubDate>
       <guid>https://astaalst.be/groep/competitie1/</guid>
       <description>Smaakt het competitiezwemmen naar meer en wil je graag je eigen grenzen verleggen? De zwemmers in competitie 1 zijn tussen de 11 en de 14 jaar en leren hun ambitie in het zwemmen ontdekken.</description>
     </item>
     <item>
       <title>Competitie 2</title>
       <link>https://astaalst.be/groep/competitie2/</link>
-      <pubDate>Tue, 27 Dec 2022 22:26:40 +0100</pubDate>
+      <pubDate>Sun, 27 Oct 2024 14:57:39 +0100</pubDate>
       <guid>https://astaalst.be/groep/competitie2/</guid>
       <description>Kent jouw ambitie geen grenzen en sta je te popelen om je zwemcarrière naar een hoger niveau te tillen? De zwemmers in competitie 2 zijn minimum 14 jaar en kiezen naast hun studies voor een (bijna) voltijds sportprogramma.</description>
+    </item>
+    <item>
+      <title>Sportief beleid</title>
+      <link>https://astaalst.be/about/beleid/</link>
+      <pubDate>Sun, 27 Oct 2024 14:57:39 +0100</pubDate>
+      <guid>https://astaalst.be/about/beleid/</guid>
+      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     <item>
       <title>Christmas for Masters 2024</title>
@@ -98,13 +105,6 @@
       <pubDate>Fri, 06 Jan 2023 11:12:04 +0100</pubDate>
       <guid>https://astaalst.be/about/clubrecords/</guid>
       <description>Sinds 2002 eert AST de clubrecords en elk jaar dagen onze zwemmers de kampioenen uit</description>
-    </item>
-    <item>
-      <title>Sportief beleid</title>
-      <link>https://astaalst.be/about/beleid/</link>
-      <pubDate>Fri, 06 Jan 2023 10:32:55 +0100</pubDate>
-      <guid>https://astaalst.be/about/beleid/</guid>
-      <description>AST ondertekende de Panathlon verklaring en staat voor verantwoord sporten.</description>
     </item>
     <item>
       <title>Mosselfestijn</title>
@@ -179,7 +179,7 @@
     <item>
       <title>Masters</title>
       <link>https://astaalst.be/groep/masters/</link>
-      <pubDate>Sun, 21 Apr 2024 15:56:08 +0200</pubDate>
+      <pubDate>Sun, 27 Oct 2024 14:57:39 +0100</pubDate>
       <guid>https://astaalst.be/groep/masters/</guid>
       <description>Wil jij als ex-competitiezwemmer graag je badpak/zwembroek vanonder het stof halen? Ben jij ouder dan 18 en ben je op zoek naar een nieuwe uitdaging, dan kan je de training met Swim4Life aanvullen met competitie voor masters!</description>
     </item>
