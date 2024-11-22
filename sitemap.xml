@@ -203,12 +203,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-11-18T08:08:46+01:00</lastmod>
+    <lastmod>2024-11-21T19:39:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2024-2025/</loc>
-    <lastmod>2024-11-18T08:08:46+01:00</lastmod>
+    <lastmod>2024-11-21T19:39:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -218,7 +218,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2024-06-24T12:54:25+02:00</lastmod>
+    <lastmod>2024-11-21T19:39:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -258,7 +258,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/post/2023-2024/mosselfestijn/</loc>
-    <lastmod>2023-12-01T17:29:52+01:00</lastmod>
+    <lastmod>2024-11-21T19:39:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -579,6 +579,11 @@
   </url><url>
     <loc>https://astaalst.be/post/2016-2017/5-maart-bc-criterium-dag-2-aalst/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2024-2025/mosselfestijn/</loc>
+    <lastmod>2024-11-21T19:39:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
