@@ -202,6 +202,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/meet/midzomertest-2024/live/</loc>
+    <lastmod>2024-12-08T15:06:43+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/meet/</loc>
     <lastmod>2024-12-08T15:48:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -494,11 +499,6 @@
   </url><url>
     <loc>https://astaalst.be/tags/2021-2022/</loc>
     <lastmod>2024-12-08T16:08:18+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/meet/midzomertest-2024/live/</loc>
-    <lastmod>2024-12-08T15:06:43+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
