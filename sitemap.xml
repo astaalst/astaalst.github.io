@@ -87,8 +87,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2024/</loc>
+    <lastmod>2024-12-08T22:25:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/midwintertest-2024/</loc>
+    <lastmod>2024-12-08T22:26:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/about/jaarkalender/</loc>
     <lastmod>2024-08-29T21:51:56+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/midsummer-for-masters-2024/</loc>
+    <lastmod>2024-12-08T22:25:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/midzomertest-2024/</loc>
+    <lastmod>2024-12-08T23:02:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -127,6 +147,46 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/meet/midwintertest-2023/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2023/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/midsummer-for-masters-2023/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/midzomertest-2023/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2021/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2019/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2018/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/meet/christmas-for-masters-2017/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/groep/swim4fun/</loc>
     <lastmod>2024-10-20T17:51:56+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -142,8 +202,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/meet/</loc>
+    <lastmod>2024-12-08T15:48:41+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/tags/2023-2024/</loc>
-    <lastmod>2024-05-14T18:44:29+02:00</lastmod>
+    <lastmod>2024-12-08T23:02:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -158,12 +223,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-12-08T21:08:26+01:00</lastmod>
+    <lastmod>2024-12-08T23:02:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2024-2025/</loc>
-    <lastmod>2024-11-21T19:39:51+01:00</lastmod>
+    <lastmod>2024-12-08T22:26:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -223,7 +288,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2022-2023/</loc>
-    <lastmod>2023-07-14T16:51:02+02:00</lastmod>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -427,8 +492,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/meet/</loc>
-    <lastmod>2024-12-08T15:48:41+01:00</lastmod>
+    <loc>https://astaalst.be/tags/2021-2022/</loc>
+    <lastmod>2024-12-08T16:08:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
