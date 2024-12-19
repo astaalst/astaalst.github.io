@@ -202,6 +202,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/tags/2024-2025/</loc>
+    <lastmod>2024-12-19T09:04:04+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2024-2025/midwinterwedstrijd-en-christmas4masters/</loc>
+    <lastmod>2024-12-19T09:04:04+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/tags/</loc>
+    <lastmod>2024-12-19T09:04:04+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/meet/</loc>
     <lastmod>2024-12-13T15:26:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -222,18 +237,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2024-12-18T19:41:25+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/tags/2024-2025/</loc>
-    <lastmod>2024-12-18T19:41:25+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://astaalst.be/post/2024-2025/mosselfestijn/</loc>
     <lastmod>2024-11-21T19:39:51+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://astaalst.be/post/2024-2025/hoge-scores-jeugdfonds/</loc>
+    <lastmod>2024-12-19T08:54:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
