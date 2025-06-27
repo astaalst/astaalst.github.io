@@ -2,32 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020-2021 on AST</title>
-    <link>https://astaalst.be/tags/2020-2021/</link>
+    <link>http://localhost:1313/tags/2020-2021/</link>
     <description>Recent content in 2020-2021 on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Fri, 06 Aug 2021 08:53:58 +0200</lastBuildDate>
-    <atom:link href="https://astaalst.be/tags/2020-2021/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Uitslagen zomerwedstrijden</title>
-      <link>https://astaalst.be/post/2020-2021/2021-07-29-uitslagen-zomerwedstrijden/</link>
-      <pubDate>Thu, 29 Jul 2021 09:45:42 +0000</pubDate>
-      <guid>https://astaalst.be/post/2020-2021/2021-07-29-uitslagen-zomerwedstrijden/</guid>
-      <description>Dit jaar kregen het Zomercriterium en het BK en BJK een andere invulling. AST zwemmers behaalden mooie resultaten op alle wedstrijden.</description>
-    </item>
-    <item>
-      <title>Zomerpauze zwemacademie</title>
-      <link>https://astaalst.be/post/2020-2021/2021-06-16-afsluit-zwemacademie/</link>
-      <pubDate>Wed, 16 Jun 2021 09:45:42 +0000</pubDate>
-      <guid>https://astaalst.be/post/2020-2021/2021-06-16-afsluit-zwemacademie/</guid>
-      <description>Tijd voor vakantie&amp;hellip; Tot september iedereen!</description>
-    </item>
-    <item>
-      <title>Eindejaarsactie 2020</title>
-      <link>https://astaalst.be/post/2020-2021/2020-10-30-eindejaarsactie-2020/</link>
-      <pubDate>Fri, 30 Oct 2020 19:45:42 +0000</pubDate>
-      <guid>https://astaalst.be/post/2020-2021/2020-10-30-eindejaarsactie-2020/</guid>
-      <description>Het is een moeilijk jaar voor ons allemaal, maar laat ons toch niet vergeten dat we met onze zwemclub alles in het werk gesteld hebben om onze zwemlessen veilig te laten doorgaan.</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/2020-2021/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

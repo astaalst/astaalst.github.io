@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2021-2022 on AST</title>
-    <link>https://astaalst.be/tags/2021-2022/</link>
+    <link>http://localhost:1313/tags/2021-2022/</link>
     <description>Recent content in 2021-2022 on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Thu, 19 Dec 2024 09:11:53 +0100</lastBuildDate>
-    <atom:link href="https://astaalst.be/tags/2021-2022/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Christmas for Masters 2021</title>
-      <link>https://astaalst.be/meet/christmas-for-masters-2021/</link>
-      <pubDate>Wed, 14 Oct 2020 07:13:02 +0000</pubDate>
-      <guid>https://astaalst.be/meet/christmas-for-masters-2021/</guid>
-      <description>Onze wedstrijd voor zwemmers vanaf 20 jaar ging door in Aalst op zaterdagavond 18 december 2021 om 19u30 en er werden scherpe tijden gezwommen in het nieuwe 50m bad.</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/2021-2022/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
