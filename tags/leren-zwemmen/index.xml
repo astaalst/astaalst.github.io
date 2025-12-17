@@ -6,7 +6,7 @@
     <description>Recent content in Leren zwemmen on AST</description>
     <generator>Hugo</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Wed, 17 Dec 2025 14:18:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 14:47:51 +0100</lastBuildDate>
     <atom:link href="https://astaalst.be/tags/leren-zwemmen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wie is wie?</title>
@@ -149,6 +149,13 @@
       <description>Financiële partners maken onze clubwerking betaalbaar</description>
     </item>
     <item>
+      <title>Onze jeugdwerking is opnieuw bekroond door de zwemfederatie</title>
+      <link>https://astaalst.be/post/2025-2026/hoge-scores-jeugdfonds/</link>
+      <pubDate>Fri, 21 Nov 2025 11:32:03 +0000</pubDate>
+      <guid>https://astaalst.be/post/2025-2026/hoge-scores-jeugdfonds/</guid>
+      <description>Via het jeugdfonds stimuleert de zwemfederatie de clubs om hun werking te blijven vernieuwen en verbeteren</description>
+    </item>
+    <item>
       <title>Activiteitenkalender 2025-2026</title>
       <link>https://astaalst.be/post/2025-2026/activiteitenkalender-2025-2026/</link>
       <pubDate>Thu, 26 Jun 2025 07:32:03 +0000</pubDate>
@@ -266,13 +273,6 @@
       <pubDate>Sat, 14 May 2022 16:13:26 +0000</pubDate>
       <guid>https://astaalst.be/post/2022-2023/wachtlijsten/</guid>
       <description>Het is leuk in het nieuwe zwembad&amp;hellip; onze groepen zitten goed vol.</description>
-    </item>
-    <item>
-      <title>Onze jeugdwerking is opnieuw bekroond door de zwemfederatie</title>
-      <link>https://astaalst.be/post/2025-2026/hoge-scores-jeugdfonds/</link>
-      <pubDate>Fri, 21 Nov 2025 11:32:03 +0000</pubDate>
-      <guid>https://astaalst.be/post/2025-2026/hoge-scores-jeugdfonds/</guid>
-      <description>Via het jeugdfonds stimuleert de zwemfederatie de clubs om hun werking te blijven vernieuwen en verbeteren</description>
     </item>
   </channel>
 </rss>
