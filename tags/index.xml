@@ -1,68 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on AST</title>
-    <link>https://astaalst.be/tags/</link>
-    <description>Recent content in Tags on AST</description>
-    <generator>Hugo</generator>
-    <language>nl-BE</language>
-    <lastBuildDate>Sun, 21 Dec 2025 16:29:23 +0100</lastBuildDate>
-    <atom:link href="https://astaalst.be/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2025-2026</title>
-      <link>https://astaalst.be/tags/2025-2026/</link>
-      <pubDate>Tue, 16 Dec 2025 20:41:39 +0000</pubDate>
-      <guid>https://astaalst.be/tags/2025-2026/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024-2025</title>
-      <link>https://astaalst.be/tags/2024-2025/</link>
-      <pubDate>Wed, 18 Dec 2024 20:41:39 +0000</pubDate>
-      <guid>https://astaalst.be/tags/2024-2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2023-2024</title>
-      <link>https://astaalst.be/tags/2023-2024/</link>
-      <pubDate>Fri, 10 May 2024 20:41:39 +0000</pubDate>
-      <guid>https://astaalst.be/tags/2023-2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2022-2023</title>
-      <link>https://astaalst.be/tags/2022-2023/</link>
-      <pubDate>Tue, 11 Jul 2023 16:13:26 +0000</pubDate>
-      <guid>https://astaalst.be/tags/2022-2023/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wedstrijdverslag</title>
-      <link>https://astaalst.be/tags/wedstrijdverslag/</link>
-      <pubDate>Tue, 25 Apr 2023 11:26:18 +0000</pubDate>
-      <guid>https://astaalst.be/tags/wedstrijdverslag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blijven zwemmen</title>
-      <link>https://astaalst.be/tags/blijven-zwemmen/</link>
-      <pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
-      <guid>https://astaalst.be/tags/blijven-zwemmen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Competitiezwemmen</title>
-      <link>https://astaalst.be/tags/competitie/</link>
-      <pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
-      <guid>https://astaalst.be/tags/competitie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Leren zwemmen</title>
-      <link>https://astaalst.be/tags/leren-zwemmen/</link>
-      <pubDate>Sun, 16 May 2021 12:58:03 +0200</pubDate>
-      <guid>https://astaalst.be/tags/leren-zwemmen/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on AST</title>
+		<link>https://astaalst.be/tags/</link>
+		<description>Recent content in Tags on AST</description>
+		<generator>Hugo</generator>
+		<language>nl-BE</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Jul 2026 11:54:33 +0200</lastBuildDate>
+		
+			<atom:link href="https://astaalst.be/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026-2027</title>
+				<link>https://astaalst.be/tags/2026-2027/</link>
+				<pubDate>Fri, 24 Jul 2026 20:41:39 +0000</pubDate>
+				<guid>https://astaalst.be/tags/2026-2027/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025-2026</title>
+				<link>https://astaalst.be/tags/2025-2026/</link>
+				<pubDate>Tue, 16 Dec 2025 20:41:39 +0000</pubDate>
+				<guid>https://astaalst.be/tags/2025-2026/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2024-2025</title>
+				<link>https://astaalst.be/tags/2024-2025/</link>
+				<pubDate>Wed, 18 Dec 2024 20:41:39 +0000</pubDate>
+				<guid>https://astaalst.be/tags/2024-2025/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2023-2024</title>
+				<link>https://astaalst.be/tags/2023-2024/</link>
+				<pubDate>Fri, 10 May 2024 20:41:39 +0000</pubDate>
+				<guid>https://astaalst.be/tags/2023-2024/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2022-2023</title>
+				<link>https://astaalst.be/tags/2022-2023/</link>
+				<pubDate>Tue, 11 Jul 2023 16:13:26 +0000</pubDate>
+				<guid>https://astaalst.be/tags/2022-2023/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wedstrijdverslag</title>
+				<link>https://astaalst.be/tags/wedstrijdverslag/</link>
+				<pubDate>Tue, 25 Apr 2023 11:26:18 +0000</pubDate>
+				<guid>https://astaalst.be/tags/wedstrijdverslag/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blijven zwemmen</title>
+				<link>https://astaalst.be/tags/blijven-zwemmen/</link>
+				<pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
+				<guid>https://astaalst.be/tags/blijven-zwemmen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Competitiezwemmen</title>
+				<link>https://astaalst.be/tags/competitie/</link>
+				<pubDate>Fri, 30 Dec 2022 20:36:41 +0100</pubDate>
+				<guid>https://astaalst.be/tags/competitie/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Leren zwemmen</title>
+				<link>https://astaalst.be/tags/leren-zwemmen/</link>
+				<pubDate>Sun, 16 May 2021 12:58:03 +0200</pubDate>
+				<guid>https://astaalst.be/tags/leren-zwemmen/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
