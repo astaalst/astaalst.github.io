@@ -82,6 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://astaalst.be/meet/septembermeeting-2026/</loc>
+    <lastmod>2026-07-26T15:23:28+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://astaalst.be/meet/christmas-for-masters-2025/</loc>
     <lastmod>2025-12-21T16:25:40+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -114,11 +119,6 @@
   </url><url>
     <loc>https://astaalst.be/about/jaarkalender/</loc>
     <lastmod>2024-08-29T21:51:56+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://astaalst.be/meet/septembermeeting-2026/</loc>
-    <lastmod>2026-07-25T11:54:33+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -218,12 +218,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/2026-2027/</loc>
-    <lastmod>2026-07-25T11:54:33+02:00</lastmod>
+    <lastmod>2026-07-26T15:23:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://astaalst.be/tags/</loc>
-    <lastmod>2026-07-25T11:54:33+02:00</lastmod>
+    <lastmod>2026-07-26T15:23:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
