@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/jan/Documents/AST/website",
+	"sourceRoot": "/Users/moreedri/GitRepo/AST-website",
 	"sources": [
 		"ananke/css/main.css"
 	],
